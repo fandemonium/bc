@@ -1,0 +1,1000 @@
+d07fd7a91639ef425350af290413b54d	contig-8060441:879:0_1_879_+	71.63	141	1.1e-54	membrane protein, putative	Sphingobacterium spiritivorum ATCC 33861 Unclassified.	PATRIC	52.0
+d07fd7a91639ef425350af290413b54d	contig-10996939:507:0_1_507_+	71.63	141	1.1e-54	membrane protein, putative	Sphingobacterium spiritivorum ATCC 33861 Unclassified.	PATRIC	8.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-8060441:879:0_1_879_+	61.54	130	4.4e-41	hypothetical protein	Alistipes putredinis DSM 17216	RefSeq	52.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-10996939:507:0_1_507_+	61.54	130	4.4e-41	hypothetical protein	Alistipes putredinis DSM 17216	RefSeq	8.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-8060441:879:0_1_879_+	61.54	130	4.4e-41	hypothetical protein	Alistipes putredinis DSM 17216	IMG	52.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-10996939:507:0_1_507_+	61.54	130	4.4e-41	hypothetical protein	Alistipes putredinis DSM 17216	IMG	8.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-8060441:879:0_1_879_+	61.54	130	4.4e-41	Putative uncharacterized protein	Alistipes putredinis DSM 17216	TrEMBL	52.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-10996939:507:0_1_507_+	61.54	130	4.4e-41	Putative uncharacterized protein	Alistipes putredinis DSM 17216	TrEMBL	8.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-8060441:879:0_1_879_+	61.54	130	4.4e-41	hypothetical protein ALIPUT_01088	Alistipes putredinis DSM 17216	GenBank	52.0
+7f7c91e4ee342b344e40e3938231dbbe	contig-10996939:507:0_1_507_+	61.54	130	4.4e-41	hypothetical protein ALIPUT_01088	Alistipes putredinis DSM 17216	GenBank	8.0
+f423cbbf990ce4d336707d7c144a537e	contig-8060441:879:0_1_879_+	90.48	126	2.7e-64	hypothetical protein	Pedobacter heparinus DSM 2366	KEGG	52.0
+f423cbbf990ce4d336707d7c144a537e	contig-10996939:507:0_1_507_+	90.48	126	2.7e-64	hypothetical protein	Pedobacter heparinus DSM 2366	KEGG	8.0
+f423cbbf990ce4d336707d7c144a537e	contig-8060441:879:0_1_879_+	90.48	126	2.7e-64	hypothetical protein	Pedobacter heparinus DSM 2366	SEED	52.0
+f423cbbf990ce4d336707d7c144a537e	contig-10996939:507:0_1_507_+	90.48	126	2.7e-64	hypothetical protein	Pedobacter heparinus DSM 2366	SEED	8.0
+68fc5ebaddba5b1761f9309dcd597eb7	contig-8060441:879:0_1_879_+	77.03	74	6.9e-29	Annotation not available	Cytophaga hutchinsonii ATCC 33406	eggNOG	52.0
+68fc5ebaddba5b1761f9309dcd597eb7	contig-10996939:507:0_1_507_+	77.03	74	6.9e-29	Annotation not available	Cytophaga hutchinsonii ATCC 33406	eggNOG	8.0
+b70ff7a0092221f95e8ad470cd463882	contig-4169485:1635:0_97_969_+	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	RefSeq	3.0
+b70ff7a0092221f95e8ad470cd463882	contig-697505:1441:0_512_1336_-	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	RefSeq	2.0
+b70ff7a0092221f95e8ad470cd463882	contig-3780745:2026:0_99_971_+	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	RefSeq	2.0
+b70ff7a0092221f95e8ad470cd463882	contig-4169485:1635:0_97_969_+	59.18	49	4e-10	Glycosyl transferase family 8	Pedobacter saltans DSM 12145	TrEMBL	3.0
+b70ff7a0092221f95e8ad470cd463882	contig-697505:1441:0_512_1336_-	59.18	49	4e-10	Glycosyl transferase family 8	Pedobacter saltans DSM 12145	TrEMBL	2.0
+b70ff7a0092221f95e8ad470cd463882	contig-3780745:2026:0_99_971_+	59.18	49	4e-10	Glycosyl transferase family 8	Pedobacter saltans DSM 12145	TrEMBL	2.0
+b70ff7a0092221f95e8ad470cd463882	contig-4169485:1635:0_97_969_+	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	GenBank	3.0
+b70ff7a0092221f95e8ad470cd463882	contig-697505:1441:0_512_1336_-	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	GenBank	2.0
+b70ff7a0092221f95e8ad470cd463882	contig-3780745:2026:0_99_971_+	59.18	49	4e-10	glycosyl transferase family 8	Pedobacter saltans DSM 12145	GenBank	2.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-6868121:883:0_1_883_+	58.7	46	4.5e-09	hypothetical protein	Sphingomonas sp. KA1	RefSeq	1.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-5780272:808:0_1_808_+	58.7	46	4.5e-09	hypothetical protein	Sphingomonas sp. KA1	RefSeq	2.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-6868121:883:0_1_883_+	58.7	46	4.5e-09	hypothetical protein	Sphingomonas sp. KA1 plasmid pCAR3	IMG	1.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-5780272:808:0_1_808_+	58.7	46	4.5e-09	hypothetical protein	Sphingomonas sp. KA1 plasmid pCAR3	IMG	2.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-6868121:883:0_1_883_+	58.7	46	4.5e-09	Bll1684 protein	Sphingomonas sp. KA1 plasmid pCAR3	SEED	1.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-5780272:808:0_1_808_+	58.7	46	4.5e-09	Bll1684 protein	Sphingomonas sp. KA1 plasmid pCAR3	SEED	2.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-6868121:883:0_1_883_+	58.7	46	4.5e-09	Putative uncharacterized protein ORF191	Sphingomonas sp. KA1	TrEMBL	1.0
+f68b3e63bca4b8805d3f81e2f536a387	contig-5780272:808:0_1_808_+	58.7	46	4.5e-09	Putative uncharacterized protein ORF191	Sphingomonas sp. KA1	TrEMBL	2.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	RefSeq	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	RefSeq	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	RefSeq	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	RefSeq	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	IMG	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	IMG	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription antitermination protein nusG	Bacteroides vulgatus ATCC 8482	IMG	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription antitermination protein nusG	Bacteroides vulgatus ATCC 8482	IMG	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides vulgatus ATCC 8482	SEED	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides vulgatus ATCC 8482	SEED	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription anti-termination protein	Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154)	TrEMBL	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription anti-termination protein	Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154)	TrEMBL	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	TrEMBL	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	TrEMBL	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	GenBank	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription termination/antitermination factor NusG	Bacteroides vulgatus PC510	GenBank	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	GenBank	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	GenBank	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription antitermination protein nusG	Bacteroides sp. 3_1_40A	GenBank	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription antitermination protein nusG	Bacteroides sp. 3_1_40A	GenBank	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription antiterminator	Bacteroides vulgatus ATCC 8482	eggNOG	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription antiterminator	Bacteroides vulgatus ATCC 8482	eggNOG	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	KEGG	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	transcription anti-termination protein	Bacteroides vulgatus ATCC 8482	KEGG	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides sp. 4_3_47FAA Unclassified.	PATRIC	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides sp. 4_3_47FAA Unclassified.	PATRIC	4.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-8115320:563:0_50_563_+	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides vulgatus ATCC 8482 Unclassified.	PATRIC	1.0
+8fdfcdfeaa501399c3c1876bb7658faa	contig-3524097:559:0_1_512_-	80.0	25	0.0025	Transcription antitermination protein NusG	Bacteroides vulgatus ATCC 8482 Unclassified.	PATRIC	4.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-10223232:2099:0_813_1933_+	77.78	27	0.0033	transcriptional regulator, laci family	Paludibacter propionicigenes WB4	RefSeq	11.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-3142914:659:0_1_659_-	77.78	27	0.0033	transcriptional regulator, laci family	Paludibacter propionicigenes WB4	RefSeq	13.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-10223232:2099:0_813_1933_+	77.78	27	0.0033	transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	KEGG	11.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-3142914:659:0_1_659_-	77.78	27	0.0033	transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	KEGG	13.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-10223232:2099:0_813_1933_+	77.78	27	0.0033	Transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	TrEMBL	11.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-3142914:659:0_1_659_-	77.78	27	0.0033	Transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	TrEMBL	13.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-10223232:2099:0_813_1933_+	77.78	27	0.0033	transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	GenBank	11.0
+375acdc26f4cbbb5a170dbbdc387b5ce	contig-3142914:659:0_1_659_-	77.78	27	0.0033	transcriptional regulator, LacI family	Paludibacter propionicigenes WB4	GenBank	13.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-10223232:2099:0_813_1933_+	75.0	28	0.0097	transcriptional regulator, LacI family	Chitinophaga pinensis DSM 2588	IMG	11.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-3142914:659:0_1_659_-	75.0	28	0.0097	transcriptional regulator, LacI family	Chitinophaga pinensis DSM 2588	IMG	13.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-10223232:2099:0_813_1933_+	75.0	28	0.0097	LacI family transcriptional regulator	Chitinophaga pinensis DSM 2588	SEED	11.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-3142914:659:0_1_659_-	75.0	28	0.0097	LacI family transcriptional regulator	Chitinophaga pinensis DSM 2588	SEED	13.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-10223232:2099:0_813_1933_+	75.0	28	0.0097	LacI family transcriptional regulator	Chitinophaga pinensis DSM 2588 Unclassified.	PATRIC	11.0
+0c876b6eb9b125a2270b8bbffbfc7661	contig-3142914:659:0_1_659_-	75.0	28	0.0097	LacI family transcriptional regulator	Chitinophaga pinensis DSM 2588 Unclassified.	PATRIC	13.0
+9ee49c1547dfe13ab3cc83538314e6f8	contig-1072707:948:0_65_948_-	65.52	29	0.0056	putative outer membrane protein, probably involved in nutrient binding	Bacteroides vulgatus ATCC 8482	SEED	16.0
+9ee49c1547dfe13ab3cc83538314e6f8	contig-4181699:690:0_1_690_-	65.52	29	0.0056	putative outer membrane protein, probably involved in nutrient binding	Bacteroides vulgatus ATCC 8482	SEED	16.0
+6dc7879cf90d57d092ec275b88b2620e	contig-1072707:948:0_65_948_-	70.37	27	0.0019	TonB-dependent receptor	Croceibacter atlanticus HTCC2559 Unclassified.	PATRIC	16.0
+6dc7879cf90d57d092ec275b88b2620e	contig-4181699:690:0_1_690_-	70.37	27	0.0019	TonB-dependent receptor	Croceibacter atlanticus HTCC2559 Unclassified.	PATRIC	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-1072707:948:0_65_948_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	RefSeq	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-4181699:690:0_1_690_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	RefSeq	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-1072707:948:0_65_948_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	KEGG	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-4181699:690:0_1_690_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	KEGG	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-1072707:948:0_65_948_-	70.37	27	0.0019	putative outer membrane protein, probably involved in nutrient binding	Croceibacter atlanticus HTCC2559	IMG	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-4181699:690:0_1_690_-	70.37	27	0.0019	putative outer membrane protein, probably involved in nutrient binding	Croceibacter atlanticus HTCC2559	IMG	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-1072707:948:0_65_948_-	70.37	27	0.0019	Putative outer membrane protein	Croceibacter atlanticus (strain ATCC BAA-628 / HTCC2559 / KCTC 12090)	TrEMBL	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-4181699:690:0_1_690_-	70.37	27	0.0019	Putative outer membrane protein	Croceibacter atlanticus (strain ATCC BAA-628 / HTCC2559 / KCTC 12090)	TrEMBL	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-1072707:948:0_65_948_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	GenBank	16.0
+3277846cf34f3243c6ba0b37386104c0	contig-4181699:690:0_1_690_-	70.37	27	0.0019	putative outer membrane protein	Croceibacter atlanticus HTCC2559	GenBank	16.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	RefSeq	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	RefSeq	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	RefSeq	3.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	KEGG	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	KEGG	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	KEGG	3.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	IMG	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	IMG	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	IMG	3.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	3.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	GenBank	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	GenBank	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	RagB/SusD domain protein	Pedobacter heparinus DSM 2366	GenBank	3.0
+9d7dfeee8feb23321433702af6581f46	contig-4743700:873:0_1_873_+	61.96	92	1e-25	putative lipoprotein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	2.0
+9d7dfeee8feb23321433702af6581f46	contig-5437137:846:0_1_846_-	61.96	92	1e-25	putative lipoprotein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	3.0
+9d7dfeee8feb23321433702af6581f46	contig-7451017:846:0_1_846_-	61.96	92	1e-25	putative lipoprotein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	3.0
+d2dfaf4ea1741733d7d405ac36176236	contig-878123:6506:0_5414_6500_+	70.27	74	3.3e-22	putative GroEL-like chaperonine protein	Pseudomonas phage EL	RefSeq	34.0
+d2dfaf4ea1741733d7d405ac36176236	contig-10488479:3002:0_1914_2999_+	70.27	74	3.3e-22	putative GroEL-like chaperonine protein	Pseudomonas phage EL	RefSeq	34.5
+d2dfaf4ea1741733d7d405ac36176236	contig-878123:6506:0_5414_6500_+	70.27	74	3.3e-22	putative GroEL-like chaperonine protein	Pseudomonas phage phiEL	IMG	34.0
+d2dfaf4ea1741733d7d405ac36176236	contig-10488479:3002:0_1914_2999_+	70.27	74	3.3e-22	putative GroEL-like chaperonine protein	Pseudomonas phage phiEL	IMG	34.5
+d2dfaf4ea1741733d7d405ac36176236	contig-878123:6506:0_5414_6500_+	70.27	74	3.3e-22	Phage protein	Myoviridae Pseudomonas phage EL	SEED	34.0
+d2dfaf4ea1741733d7d405ac36176236	contig-10488479:3002:0_1914_2999_+	70.27	74	3.3e-22	Phage protein	Myoviridae Pseudomonas phage EL	SEED	34.5
+d2dfaf4ea1741733d7d405ac36176236	contig-878123:6506:0_5414_6500_+	70.27	74	3.3e-22	Putative GroEL-like chaperonine protein	Pseudomonas phage EL	TrEMBL	34.0
+d2dfaf4ea1741733d7d405ac36176236	contig-10488479:3002:0_1914_2999_+	70.27	74	3.3e-22	Putative GroEL-like chaperonine protein	Pseudomonas phage EL	TrEMBL	34.5
+4ea4ec538e42ff0611c7f716532aead3	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	Riboflavin synthase alpha chain	Shewanella oneidensis MR-1 Unclassified.	PATRIC	2.0
+4ea4ec538e42ff0611c7f716532aead3	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	Riboflavin synthase alpha chain	Shewanella oneidensis MR-1 Unclassified.	PATRIC	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	riboflavin synthase subunit alpha	Shewanella oneidensis MR-1	RefSeq	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	riboflavin synthase subunit alpha	Shewanella oneidensis MR-1	RefSeq	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	riboflavin synthase subunit alpha	Shewanella oneidensis MR-1	IMG	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	riboflavin synthase subunit alpha	Shewanella oneidensis MR-1	IMG	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	Riboflavin synthase alpha chain (EC 2.5.1.9)	Shewanella oneidensis MR-1	SEED	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	Riboflavin synthase alpha chain (EC 2.5.1.9)	Shewanella oneidensis MR-1	SEED	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	Riboflavin synthase, alpha subunit	Shewanella oneidensis	TrEMBL	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	Riboflavin synthase, alpha subunit	Shewanella oneidensis	TrEMBL	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	riboflavin synthase, alpha subunit	Shewanella oneidensis MR-1	GenBank	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	riboflavin synthase, alpha subunit	Shewanella oneidensis MR-1	GenBank	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	riboflavin synthase subunit alpha (EC:2.5.1.9)	Shewanella oneidensis MR-1	KEGG	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	riboflavin synthase subunit alpha (EC:2.5.1.9)	Shewanella oneidensis MR-1	KEGG	6.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-1048371:2291:0_1355_2233_-	85.12	121	8.5e-55	Riboflavin synthase alpha chain	Shewanella oneidensis MR-1	eggNOG	2.0
+c324373fdf74c59f4a1f4315ee868d0a	contig-7428056:2377:0_57_680_+	85.12	121	8.5e-55	Riboflavin synthase alpha chain	Shewanella oneidensis MR-1	eggNOG	6.0
+d23fc9d4fc8b69e9e9173afbe7ae76c3	contig-6070768:515:0_1_515_-	95.88	170	4.8e-87	putative phage tail-like protein	Pseudomonas fluorescens SBW25	KEGG	13.0
+d23fc9d4fc8b69e9e9173afbe7ae76c3	contig-7023524:511:0_1_511_-	95.88	170	4.8e-87	putative phage tail-like protein	Pseudomonas fluorescens SBW25	KEGG	8.0
+d23fc9d4fc8b69e9e9173afbe7ae76c3	contig-6070768:515:0_1_515_-	95.88	170	4.8e-87	Phage-related contractile tail sheath protein	Pseudomonas fluorescens SBW25	SEED	13.0
+d23fc9d4fc8b69e9e9173afbe7ae76c3	contig-7023524:511:0_1_511_-	95.88	170	4.8e-87	Phage-related contractile tail sheath protein	Pseudomonas fluorescens SBW25	SEED	8.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-6070768:515:0_1_515_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	RefSeq	13.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-7023524:511:0_1_511_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	RefSeq	8.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-6070768:515:0_1_515_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	IMG	13.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-7023524:511:0_1_511_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	IMG	8.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-6070768:515:0_1_515_-	58.14	43	2.6e-07	Major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	TrEMBL	13.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-7023524:511:0_1_511_-	58.14	43	2.6e-07	Major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	TrEMBL	8.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-6070768:515:0_1_515_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	GenBank	13.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-7023524:511:0_1_511_-	58.14	43	2.6e-07	major tail sheath protein	Photobacterium damselae subsp. damselae CIP 102761	GenBank	8.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-6070768:515:0_1_515_-	58.14	43	2.6e-07	Phage tail sheath monomer	Photobacterium damselae subsp. damselae CIP 102761 Unclassified.	PATRIC	13.0
+adf8c75b6a9369fccf7d155c2a5d0308	contig-7023524:511:0_1_511_-	58.14	43	2.6e-07	Phage tail sheath monomer	Photobacterium damselae subsp. damselae CIP 102761 Unclassified.	PATRIC	8.0
+c8799154c172e5f85ec9244af9188de8	contig-6070768:515:0_1_515_-	97.65	170	2.5e-88	Phage tail sheath protein FI	Pseudomonas fluorescens PfO-1	eggNOG	13.0
+c8799154c172e5f85ec9244af9188de8	contig-7023524:511:0_1_511_-	97.65	170	2.5e-88	Phage tail sheath protein FI	Pseudomonas fluorescens PfO-1	eggNOG	8.0
+a277526d905a91a4fc75b23d37be7154	contig-1761093:865:0_1_865_+	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	RefSeq	4.0
+a277526d905a91a4fc75b23d37be7154	contig-738967:674:0_1_674_-	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	RefSeq	4.0
+a277526d905a91a4fc75b23d37be7154	contig-3280905:682:0_1_682_-	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	RefSeq	5.0
+a277526d905a91a4fc75b23d37be7154	contig-1761093:865:0_1_865_+	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	TrEMBL	4.0
+a277526d905a91a4fc75b23d37be7154	contig-738967:674:0_1_674_-	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	TrEMBL	4.0
+a277526d905a91a4fc75b23d37be7154	contig-3280905:682:0_1_682_-	51.0	100	5.7e-22	Tetratricopeptide TPR_2 repeat protein	Acidobacterium sp. MP5ACTX9	TrEMBL	5.0
+a277526d905a91a4fc75b23d37be7154	contig-1761093:865:0_1_865_+	51.0	100	5.7e-22	Tetratricopeptide TPR_1 repeat-containing protein	Acidobacterium sp. MP5ACTX9	GenBank	4.0
+a277526d905a91a4fc75b23d37be7154	contig-738967:674:0_1_674_-	51.0	100	5.7e-22	Tetratricopeptide TPR_1 repeat-containing protein	Acidobacterium sp. MP5ACTX9	GenBank	4.0
+a277526d905a91a4fc75b23d37be7154	contig-3280905:682:0_1_682_-	51.0	100	5.7e-22	Tetratricopeptide TPR_1 repeat-containing protein	Acidobacterium sp. MP5ACTX9	GenBank	5.0
+a277526d905a91a4fc75b23d37be7154	contig-1761093:865:0_1_865_+	51.0	100	5.7e-22	hypothetical protein	Acidobacterium sp. MP5ACTX9 Unclassified.	PATRIC	4.0
+a277526d905a91a4fc75b23d37be7154	contig-738967:674:0_1_674_-	51.0	100	5.7e-22	hypothetical protein	Acidobacterium sp. MP5ACTX9 Unclassified.	PATRIC	4.0
+a277526d905a91a4fc75b23d37be7154	contig-3280905:682:0_1_682_-	51.0	100	5.7e-22	hypothetical protein	Acidobacterium sp. MP5ACTX9 Unclassified.	PATRIC	5.0
+8041e0f6efd8e19d05aaa74fc15976e2	contig-1761093:865:0_1_865_+	58.41	113	8.1e-32	conserved hypothetical protein	bacterium Ellin514	IMG	4.0
+8041e0f6efd8e19d05aaa74fc15976e2	contig-738967:674:0_1_674_-	58.41	113	8.1e-32	conserved hypothetical protein	bacterium Ellin514	IMG	4.0
+8041e0f6efd8e19d05aaa74fc15976e2	contig-3280905:682:0_1_682_-	58.41	113	8.1e-32	conserved hypothetical protein	bacterium Ellin514	IMG	5.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-1761093:865:0_1_865_+	55.0	120	2.4e-31	hypothetical protein	Solibacter usitatus Ellin6076	KEGG	4.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-738967:674:0_1_674_-	55.0	120	2.4e-31	hypothetical protein	Solibacter usitatus Ellin6076	KEGG	4.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-3280905:682:0_1_682_-	55.0	120	2.4e-31	hypothetical protein	Solibacter usitatus Ellin6076	KEGG	5.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-1761093:865:0_1_865_+	55.0	120	2.4e-31		Solibacter usitatus Ellin6076	eggNOG	4.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-738967:674:0_1_674_-	55.0	120	2.4e-31		Solibacter usitatus Ellin6076	eggNOG	4.0
+227c37eb0bee09861cdfe0ec1133be8f	contig-3280905:682:0_1_682_-	55.0	120	2.4e-31		Solibacter usitatus Ellin6076	eggNOG	5.0
+8a6f0b725e8074dd991f78774bdd19fb	contig-1761093:865:0_1_865_+	48.21	112	3e-25	conserved hypothetical protein-putative thiol-disulfide isomerase or thioredoxin	Blastopirellula marina DSM 3645	SEED	4.0
+8a6f0b725e8074dd991f78774bdd19fb	contig-738967:674:0_1_674_-	48.21	112	3e-25	conserved hypothetical protein-putative thiol-disulfide isomerase or thioredoxin	Blastopirellula marina DSM 3645	SEED	4.0
+8a6f0b725e8074dd991f78774bdd19fb	contig-3280905:682:0_1_682_-	48.21	112	3e-25	conserved hypothetical protein-putative thiol-disulfide isomerase or thioredoxin	Blastopirellula marina DSM 3645	SEED	5.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	RefSeq	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	RefSeq	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae pneumoniae MGH 78578	IMG	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae pneumoniae MGH 78578	IMG	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	Sulfate permease	Klebsiella pneumoniae MGH 78578	SEED	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	Sulfate permease	Klebsiella pneumoniae MGH 78578	SEED	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	Putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	TrEMBL	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	Putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	TrEMBL	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	GenBank	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	GenBank	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	Sulfate permease and related transporters (MFS superfamily)	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	eggNOG	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	Sulfate permease and related transporters (MFS superfamily)	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	eggNOG	2.0
+82dbca906b3ba6d02e81120c239deedc	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	KEGG	3.0
+82dbca906b3ba6d02e81120c239deedc	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	putative sulfate transporter	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	KEGG	2.0
+64c6d9d928d5200f9020d643f0aee415	contig-8527830:1093:0_1_1092_+	83.87	31	6.6e-06	Sulfate permease	Pantoea ananatis LMG 20103 Unclassified.	PATRIC	3.0
+64c6d9d928d5200f9020d643f0aee415	contig-3923979:666:0_1_666_-	83.87	31	6.6e-06	Sulfate permease	Pantoea ananatis LMG 20103 Unclassified.	PATRIC	2.0
+a52382379385ad70b3f6af85d47eb30a	contig-50371:1117:0_1_1116_+	61.11	54	4.6e-11	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Frankia alni ACN14a	eggNOG	3.0
+a52382379385ad70b3f6af85d47eb30a	contig-2358321:631:0_1_480_+	61.11	54	4.6e-11	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Frankia alni ACN14a	eggNOG	3.0
+a52382379385ad70b3f6af85d47eb30a	contig-2358321:631:0_548_631_+	61.11	54	4.6e-11	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Frankia alni ACN14a	eggNOG	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	LuxR family two component transcriptional regulator	Chloroflexus sp. Y-400-fl	RefSeq	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	LuxR family two component transcriptional regulator	Chloroflexus sp. Y-400-fl	RefSeq	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	LuxR family two component transcriptional regulator	Chloroflexus sp. Y-400-fl	RefSeq	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	RefSeq	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	RefSeq	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	RefSeq	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	KEGG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	KEGG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	KEGG	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	KEGG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	KEGG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	KEGG	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	IMG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	IMG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	IMG	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	IMG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	IMG	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	IMG	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl	SEED	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl	SEED	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl	SEED	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	Two component transcriptional regulator, LuxR family	Chloroflexus aurantiacus (strain ATCC 29364 / DSM 637 / Y-400-fl)	TrEMBL	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	Two component transcriptional regulator, LuxR family	Chloroflexus aurantiacus (strain ATCC 29364 / DSM 637 / Y-400-fl)	TrEMBL	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	Two component transcriptional regulator, LuxR family	Chloroflexus aurantiacus (strain ATCC 29364 / DSM 637 / Y-400-fl)	TrEMBL	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	Response regulator receiver	Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)	TrEMBL	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	Response regulator receiver	Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)	TrEMBL	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	Response regulator receiver	Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)	TrEMBL	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	GenBank	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	GenBank	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	response regulator receiver	Chloroflexus aurantiacus J-10-fl	GenBank	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	GenBank	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	GenBank	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	two component transcriptional regulator, LuxR family	Chloroflexus sp. Y-400-fl	GenBank	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl Unclassified.	PATRIC	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl Unclassified.	PATRIC	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus aurantiacus J-10-fl Unclassified.	PATRIC	0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-50371:1117:0_1_1116_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus sp. Y-400-fl Unclassified.	PATRIC	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_1_480_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus sp. Y-400-fl Unclassified.	PATRIC	3.0
+c5ac93d700cb2c4e2947c471e9b96ac5	contig-2358321:631:0_548_631_+	57.38	61	1.6e-11	DNA-binding response regulator	Chloroflexus sp. Y-400-fl Unclassified.	PATRIC	0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	RefSeq	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	RefSeq	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	RefSeq	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	IMG	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	IMG	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	IMG	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	Roseiflexus castenholzi DSM 13941	SEED	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	Roseiflexus castenholzi DSM 13941	SEED	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	Roseiflexus castenholzi DSM 13941	SEED	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii (strain DSM 13941 / HLO8)	TrEMBL	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii (strain DSM 13941 / HLO8)	TrEMBL	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii (strain DSM 13941 / HLO8)	TrEMBL	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	GenBank	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	GenBank	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	GenBank	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	Roseiflexus castenholzii DSM 13941	eggNOG	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	Roseiflexus castenholzii DSM 13941	eggNOG	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	Roseiflexus castenholzii DSM 13941	eggNOG	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	KEGG	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	KEGG	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	AMP-dependent synthetase and ligase	Roseiflexus castenholzii DSM 13941	KEGG	3.0
+1ef49074c9033fe888673573c65fd102	contig-1222542:874:0_1_874_-	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase	Roseiflexus castenholzii DSM 13941 Unclassified.	PATRIC	3.0
+1ef49074c9033fe888673573c65fd102	contig-9151173:679:0_1_679_+	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase	Roseiflexus castenholzii DSM 13941 Unclassified.	PATRIC	1.0
+1ef49074c9033fe888673573c65fd102	contig-10555073:874:0_1_874_-	64.71	51	2.3e-10	Long-chain-fatty-acid--CoA ligase	Roseiflexus castenholzii DSM 13941 Unclassified.	PATRIC	3.0
+647197aca0548506ad5861c23dfaeefd	contig-701602:875:0_1_875_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid ('one-component system')	Bacteroides dorei DSM 17855 Unclassified.	PATRIC	1.0
+647197aca0548506ad5861c23dfaeefd	contig-1534224:855:0_1_855_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid ('one-component system')	Bacteroides dorei DSM 17855 Unclassified.	PATRIC	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	RefSeq	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	RefSeq	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	IMG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	IMG	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	Two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	SEED	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	Two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	SEED	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	Two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154)	TrEMBL	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	Two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154)	TrEMBL	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	GenBank	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	GenBank	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	KEGG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	two-component system sensor histidine kinase/response regulator, hybrid	Bacteroides vulgatus ATCC 8482	KEGG	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	AraC-type DNA-binding domain-containing proteins	Bacteroides vulgatus ATCC 8482	eggNOG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	AraC-type DNA-binding domain-containing proteins	Bacteroides vulgatus ATCC 8482	eggNOG	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	Predicted periplasmic ligand-binding sensor domain	Bacteroides vulgatus ATCC 8482	eggNOG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	Predicted periplasmic ligand-binding sensor domain	Bacteroides vulgatus ATCC 8482	eggNOG	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	Response regulator containing a CheY-like receiver domain and a GGDEF domain	Bacteroides vulgatus ATCC 8482	eggNOG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	Response regulator containing a CheY-like receiver domain and a GGDEF domain	Bacteroides vulgatus ATCC 8482	eggNOG	2.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-701602:875:0_1_875_+	60.0	55	2e-11	Signal transduction histidine kinase	Bacteroides vulgatus ATCC 8482	eggNOG	1.0
+5f47cf95828b6a4eb5ed1fe5ed291c8e	contig-1534224:855:0_1_855_+	60.0	55	2e-11	Signal transduction histidine kinase	Bacteroides vulgatus ATCC 8482	eggNOG	2.0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	RefSeq	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	RefSeq	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	RefSeq	0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	KEGG	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	KEGG	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	KEGG	0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	IMG	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	IMG	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	IMG	0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	Aminotransferase class IV	Pantoea sp. At-9b	TrEMBL	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	Aminotransferase class IV	Pantoea sp. At-9b	TrEMBL	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	Aminotransferase class IV	Pantoea sp. At-9b	TrEMBL	0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	GenBank	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	GenBank	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	aminotransferase class IV	Pantoea sp. At-9b	GenBank	0
+244f832ae559da199a2ca84b339e260c	contig-643547:1247:0_140_1246_-	65.62	32	0.0025	D-alanine aminotransferase	Pantoea sp. At-9b Unclassified.	PATRIC	5.0
+244f832ae559da199a2ca84b339e260c	contig-945988:1062:0_1_1061_+	65.62	32	0.0025	D-alanine aminotransferase	Pantoea sp. At-9b Unclassified.	PATRIC	5.0
+244f832ae559da199a2ca84b339e260c	contig-387611:1439:0_1286_1438_-	65.62	32	0.0025	D-alanine aminotransferase	Pantoea sp. At-9b Unclassified.	PATRIC	0
+927ed0547e75bab0aced30c27ca2c145	contig-643547:1247:0_140_1246_-	58.97	39	0.0097	D-alanine aminotransferase (EC 2.6.1.21)	Proteus mirabilis HI4320	SEED	5.0
+927ed0547e75bab0aced30c27ca2c145	contig-945988:1062:0_1_1061_+	58.97	39	0.0097	D-alanine aminotransferase (EC 2.6.1.21)	Proteus mirabilis HI4320	SEED	5.0
+927ed0547e75bab0aced30c27ca2c145	contig-387611:1439:0_1286_1438_-	58.97	39	0.0097	D-alanine aminotransferase (EC 2.6.1.21)	Proteus mirabilis HI4320	SEED	0
+18f6ebaeebdfd9fa9edb06447ef7687f	contig-643547:1247:0_140_1246_-	58.97	39	0.00013	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Erwinia carotovora subsp. atroseptica SCRI1043	eggNOG	5.0
+18f6ebaeebdfd9fa9edb06447ef7687f	contig-945988:1062:0_1_1061_+	58.97	39	0.00013	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Erwinia carotovora subsp. atroseptica SCRI1043	eggNOG	5.0
+18f6ebaeebdfd9fa9edb06447ef7687f	contig-387611:1439:0_1286_1438_-	58.97	39	0.00013	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Erwinia carotovora subsp. atroseptica SCRI1043	eggNOG	0
+27282a1cc5047c5970213e4019bddbb5	contig-2001792:872:0_1_872_+	76.25	240	2.4e-101	Mrp/Nbp35 family ATP-binding protein	Capnocytophaga ochracea DSM 7271	KEGG	10.0
+27282a1cc5047c5970213e4019bddbb5	contig-8443905:506:0_1_506_+	76.25	240	2.4e-101	Mrp/Nbp35 family ATP-binding protein	Capnocytophaga ochracea DSM 7271	KEGG	3.0
+27282a1cc5047c5970213e4019bddbb5	contig-1926902:575:0_1_575_+	76.25	240	2.4e-101	Mrp/Nbp35 family ATP-binding protein	Capnocytophaga ochracea DSM 7271	KEGG	4.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-2001792:872:0_1_872_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	RefSeq	10.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-8443905:506:0_1_506_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	RefSeq	3.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-1926902:575:0_1_575_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	RefSeq	4.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-2001792:872:0_1_872_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	IMG	10.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-8443905:506:0_1_506_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	IMG	3.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-1926902:575:0_1_575_+	81.82	242	5.7e-109	hypothetical protein	Flavobacteriales bacterium ALC-1	IMG	4.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-2001792:872:0_1_872_+	81.82	242	5.7e-109	Putative uncharacterized protein	Flavobacteriales bacterium ALC-1	TrEMBL	10.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-8443905:506:0_1_506_+	81.82	242	5.7e-109	Putative uncharacterized protein	Flavobacteriales bacterium ALC-1	TrEMBL	3.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-1926902:575:0_1_575_+	81.82	242	5.7e-109	Putative uncharacterized protein	Flavobacteriales bacterium ALC-1	TrEMBL	4.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-2001792:872:0_1_872_+	81.82	242	5.7e-109	hypothetical protein FBALC1_01882	Flavobacteriales bacterium ALC-1	GenBank	10.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-8443905:506:0_1_506_+	81.82	242	5.7e-109	hypothetical protein FBALC1_01882	Flavobacteriales bacterium ALC-1	GenBank	3.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-1926902:575:0_1_575_+	81.82	242	5.7e-109	hypothetical protein FBALC1_01882	Flavobacteriales bacterium ALC-1	GenBank	4.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-2001792:872:0_1_872_+	81.82	242	5.7e-109	Septum site-determining protein MinD	Flavobacteriales bacterium ALC-1 Unclassified.	PATRIC	10.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-8443905:506:0_1_506_+	81.82	242	5.7e-109	Septum site-determining protein MinD	Flavobacteriales bacterium ALC-1 Unclassified.	PATRIC	3.0
+3e4b95c9abd966deef6bd18df1526aa8	contig-1926902:575:0_1_575_+	81.82	242	5.7e-109	Septum site-determining protein MinD	Flavobacteriales bacterium ALC-1 Unclassified.	PATRIC	4.0
+6ef47cbcd1c2aa2010d8d108a71dd8ac	contig-2001792:872:0_1_872_+	86.89	206	1.1e-101	ATPases involved in chromosome partitioning	Gramella forsetii KT0803	eggNOG	10.0
+6ef47cbcd1c2aa2010d8d108a71dd8ac	contig-8443905:506:0_1_506_+	86.89	206	1.1e-101	ATPases involved in chromosome partitioning	Gramella forsetii KT0803	eggNOG	3.0
+6ef47cbcd1c2aa2010d8d108a71dd8ac	contig-1926902:575:0_1_575_+	86.89	206	1.1e-101	ATPases involved in chromosome partitioning	Gramella forsetii KT0803	eggNOG	4.0
+f312a6c6ae527c23b292a9430b4d395f	contig-2001792:872:0_1_872_+	79.26	217	3e-97	Septum site-determining protein MinD	Tenacibaculum sp. MED152	SEED	10.0
+f312a6c6ae527c23b292a9430b4d395f	contig-8443905:506:0_1_506_+	79.26	217	3e-97	Septum site-determining protein MinD	Tenacibaculum sp. MED152	SEED	3.0
+f312a6c6ae527c23b292a9430b4d395f	contig-1926902:575:0_1_575_+	79.26	217	3e-97	Septum site-determining protein MinD	Tenacibaculum sp. MED152	SEED	4.0
+cd405477d73691c5b6a27cbd12fefbbf	contig-7800096:1090:0_1_1089_+	56.0	50	3.4e-07	Glycosyltransferase	Bacteroides dorei DSM 17855 Unclassified.	PATRIC	3.0
+cd405477d73691c5b6a27cbd12fefbbf	contig-6842107:719:0_1_719_-	56.0	50	3.4e-07	Glycosyltransferase	Bacteroides dorei DSM 17855 Unclassified.	PATRIC	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-7800096:1090:0_1_1089_+	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	RefSeq	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-6842107:719:0_1_719_-	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	RefSeq	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-7800096:1090:0_1_1089_+	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	IMG	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-6842107:719:0_1_719_-	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	IMG	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-7800096:1090:0_1_1089_+	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. (strain PCC 8106) (Lyngbya aestuarii (strain CCY9616))	TrEMBL	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-6842107:719:0_1_719_-	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. (strain PCC 8106) (Lyngbya aestuarii (strain CCY9616))	TrEMBL	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-7800096:1090:0_1_1089_+	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	GenBank	3.0
+c5d4b6baf31b8bfacb11a3729177d54a	contig-6842107:719:0_1_719_-	66.67	33	0.00038	Glycosyl transferase, family 2	Lyngbya sp. PCC 8106	GenBank	3.0
+1f240fe8bfff7614c800fdad8834c1d7	contig-7800096:1090:0_1_1089_+	57.14	49	3.9e-08	glycosyl transferase, group 1	Methylobacillus flagellatus KT	KEGG	3.0
+1f240fe8bfff7614c800fdad8834c1d7	contig-6842107:719:0_1_719_-	57.14	49	3.9e-08	glycosyl transferase, group 1	Methylobacillus flagellatus KT	KEGG	3.0
+1f240fe8bfff7614c800fdad8834c1d7	contig-7800096:1090:0_1_1089_+	57.14	49	3.9e-08	Glycosyltransferase	Methylobacillus flagellatus KT	eggNOG	3.0
+1f240fe8bfff7614c800fdad8834c1d7	contig-6842107:719:0_1_719_-	57.14	49	3.9e-08	Glycosyltransferase	Methylobacillus flagellatus KT	eggNOG	3.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-5524095:592:0_81_592_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	RefSeq	4.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-2485463:616:0_105_616_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	RefSeq	5.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-5524095:592:0_81_592_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	IMG	4.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-2485463:616:0_105_616_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	IMG	5.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-5524095:592:0_81_592_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila (strain L48)	TrEMBL	4.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-2485463:616:0_105_616_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila (strain L48)	TrEMBL	5.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-5524095:592:0_81_592_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	KEGG	4.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-2485463:616:0_105_616_-	66.67	33	0.00038	O-antigen chain length regulator protein (Wzz)	Pseudomonas entomophila L48	KEGG	5.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-5524095:592:0_81_592_-	66.67	33	0.00038	Chain length determinant protein	Pseudomonas entomophila L48	eggNOG	4.0
+f51fd1c66ecda9400dc54fd89b8ec85c	contig-2485463:616:0_105_616_-	66.67	33	0.00038	Chain length determinant protein	Pseudomonas entomophila L48	eggNOG	5.0
+bd42c3e51d1303f506ecde0b33bfde7d	contig-5524095:592:0_81_592_-	76.92	26	0.00085	Wzz	Pseudomonas aeruginosa	GenBank	4.0
+bd42c3e51d1303f506ecde0b33bfde7d	contig-2485463:616:0_105_616_-	76.92	26	0.00085	Wzz	Pseudomonas aeruginosa	GenBank	5.0
+9c946737783cd2f5bac7fc24f94bf469	contig-5524095:592:0_81_592_-	66.67	36	3.3e-05	O-antigen chain length regulator	Pseudomonas aeruginosa PAO1	SEED	4.0
+9c946737783cd2f5bac7fc24f94bf469	contig-2485463:616:0_105_616_-	66.67	36	3.3e-05	O-antigen chain length regulator	Pseudomonas aeruginosa PAO1	SEED	5.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	RefSeq	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	RefSeq	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	RefSeq	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	chitinase family 18 (EC:3.2.1.14)	Stenotrophomonas maltophilia R551-3	IMG	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	chitinase family 18 (EC:3.2.1.14)	Stenotrophomonas maltophilia R551-3	IMG	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	chitinase family 18 (EC:3.2.1.14)	Stenotrophomonas maltophilia R551-3	IMG	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	chitinase A	Stenotrophomonas maltophilia R551-3	SEED	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	chitinase A	Stenotrophomonas maltophilia R551-3	SEED	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	chitinase A	Stenotrophomonas maltophilia R551-3	SEED	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	Glycoside hydrolase family 18	Stenotrophomonas maltophilia (strain R551-3)	TrEMBL	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	Glycoside hydrolase family 18	Stenotrophomonas maltophilia (strain R551-3)	TrEMBL	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	Glycoside hydrolase family 18	Stenotrophomonas maltophilia (strain R551-3)	TrEMBL	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	GenBank	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	GenBank	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	GenBank	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	KEGG	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	KEGG	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	glycoside hydrolase family 18	Stenotrophomonas maltophilia R551-3	KEGG	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-526359:1118:0_1_1117_+	55.56	45	1.7e-06	Chitinase	Stenotrophomonas maltophilia R551-3 Unclassified.	PATRIC	2.0
+6cb745c1277c604f2b02cd495e5ede74	contig-814657:942:0_1_942_-	55.56	45	1.7e-06	Chitinase	Stenotrophomonas maltophilia R551-3 Unclassified.	PATRIC	1.0
+6cb745c1277c604f2b02cd495e5ede74	contig-7569213:823:0_1_823_+	55.56	45	1.7e-06	Chitinase	Stenotrophomonas maltophilia R551-3 Unclassified.	PATRIC	1.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase	Hahella chejuensis KCTC 2396	RefSeq	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase	Hahella chejuensis KCTC 2396	RefSeq	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157) / UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23)	Hahella chejuensis KCTC 2396	IMG	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157) / UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23)	Hahella chejuensis KCTC 2396	IMG	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	Hahella chejuensis KCTC 2396	SEED	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	Hahella chejuensis KCTC 2396	SEED	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase	Hahella chejuensis KCTC 2396	GenBank	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase	Hahella chejuensis KCTC 2396	GenBank	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	Bifunctional protein glmU	Hahella chejuensis (strain KCTC 2396)	SwissProt	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	Bifunctional protein glmU	Hahella chejuensis (strain KCTC 2396)	SwissProt	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch acetyltransferase domains)	Hahella chejuensis KCTC 2396	eggNOG	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch acetyltransferase domains)	Hahella chejuensis KCTC 2396	eggNOG	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase (EC:2.7.7.23)	Hahella chejuensis KCTC 2396	KEGG	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	UDP-N-acetylglucosamine pyrophosphorylase (EC:2.7.7.23)	Hahella chejuensis KCTC 2396	KEGG	7.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-10990947:1106:0_1_1105_-	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase / Glucosamine-1-phosphate N-acetyltransferase	Hahella chejuensis KCTC 2396 Unclassified.	PATRIC	5.0
+1e6816da15f08ba5c92c16c55c74bb7f	contig-5323825:1153:0_1_845_+	60.98	123	3.3e-39	N-acetylglucosamine-1-phosphate uridyltransferase / Glucosamine-1-phosphate N-acetyltransferase	Hahella chejuensis KCTC 2396 Unclassified.	PATRIC	7.0
+a322af88ee9bf544dcf7b34e16160171	contig-10990947:1106:0_1_1105_-	59.84	122	4.4e-39	Bifunctional protein glmU 1	uncultured SUP05 cluster bacterium	TrEMBL	5.0
+a322af88ee9bf544dcf7b34e16160171	contig-5323825:1153:0_1_845_+	59.84	122	4.4e-39	Bifunctional protein glmU 1	uncultured SUP05 cluster bacterium	TrEMBL	7.0
+797e1569ac16f5cb12d5f6ae195f81ea	contig-1470674:887:0_1_887_-	55.81	86	2.8e-17	FAD-dependent oxidoreductase protein	Agrobacterium radiobacter K84	GenBank	4.0
+797e1569ac16f5cb12d5f6ae195f81ea	contig-7680812:566:0_1_566_-	55.81	86	2.8e-17	FAD-dependent oxidoreductase protein	Agrobacterium radiobacter K84	GenBank	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	K+ transport flavoprotein	Ralstonia eutropha H16	RefSeq	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	K+ transport flavoprotein	Ralstonia eutropha H16	RefSeq	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	Predicted flavoprotein involved in K+ transport	Ralstonia eutropha H16	eggNOG	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	Predicted flavoprotein involved in K+ transport	Ralstonia eutropha H16	eggNOG	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	K+ transport flavoprotein	Ralstonia eutropha H16	KEGG	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	K+ transport flavoprotein	Ralstonia eutropha H16	KEGG	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	predicted flavoprotein involved in K+ transport	Ralstonia eutropha H16	IMG	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	predicted flavoprotein involved in K+ transport	Ralstonia eutropha H16	IMG	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	Predicted flavoprotein involved in K+ transport	Cupriavidus necator (strain ATCC 17699 / H16 / DSM 428 / Stanier 337) (Ralstonia eutropha)	TrEMBL	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	Predicted flavoprotein involved in K+ transport	Cupriavidus necator (strain ATCC 17699 / H16 / DSM 428 / Stanier 337) (Ralstonia eutropha)	TrEMBL	5.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-1470674:887:0_1_887_-	58.97	78	5.5e-16	monooxygenase, putative	Ralstonia eutropha H16 Unclassified.	PATRIC	4.0
+5ae3656c372a7efcbe61c23968f7daa3	contig-7680812:566:0_1_566_-	58.97	78	5.5e-16	monooxygenase, putative	Ralstonia eutropha H16 Unclassified.	PATRIC	5.0
+8fb04ead7bb417e09cfce78860f32c1d	contig-1470674:887:0_1_887_-	67.27	55	6.2e-15	probable monooxygenase	Rhodococcus jostii RHA1	SEED	4.0
+8fb04ead7bb417e09cfce78860f32c1d	contig-7680812:566:0_1_566_-	67.27	55	6.2e-15	probable monooxygenase	Rhodococcus jostii RHA1	SEED	5.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	RefSeq	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	RefSeq	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	KEGG	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	KEGG	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	IMG	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	IMG	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	conserved hypothetical protein	Pedobacter heparinus DSM 2366	SEED	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	conserved hypothetical protein	Pedobacter heparinus DSM 2366	SEED	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	GenBank	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	O-methyltransferase	Pedobacter heparinus DSM 2366	GenBank	3.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5242105:510:0_1_510_-	68.75	32	1.7e-06	hypothetical protein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	6.0
+cbeebbf034c5c8dadc747598a9286bc0	contig-5972949:503:0_1_503_+	68.75	32	1.7e-06	hypothetical protein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	3.0
+016a8661cc17aef27da0e3309ce19bc3	contig-8568858:509:0_1_509_-	76.83	164	3.2e-69	ABC-type multidrug transport system, permease component	Burkholderia sp. H160 Unclassified.	PATRIC	3.0
+016a8661cc17aef27da0e3309ce19bc3	contig-1402730:509:0_1_509_-	76.83	164	3.2e-69	ABC-type multidrug transport system, permease component	Burkholderia sp. H160 Unclassified.	PATRIC	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-8568858:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	RefSeq	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-1402730:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	RefSeq	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-8568858:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	KEGG	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-1402730:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	KEGG	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-8568858:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	IMG	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-1402730:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	IMG	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-8568858:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis (strain E264 / ATCC 700388 / DSM 13276 / CIP 106301)	TrEMBL	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-1402730:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis (strain E264 / ATCC 700388 / DSM 13276 / CIP 106301)	TrEMBL	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-8568858:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	GenBank	3.0
+bd1291dcc422dc67fb27b94ff2cfdd40	contig-1402730:509:0_1_509_-	76.69	163	2.4e-69	RND efflux system, cytoplasmic membrane extrusion protein	Burkholderia thailandensis E264	GenBank	3.0
+0abdd38d7699c6753db7f229a30b1623	contig-8568858:509:0_1_509_-	86.36	88	6.4e-36	ABC transporter ATP-binding protein	Bordetella avium 197N	SEED	3.0
+0abdd38d7699c6753db7f229a30b1623	contig-1402730:509:0_1_509_-	86.36	88	6.4e-36	ABC transporter ATP-binding protein	Bordetella avium 197N	SEED	3.0
+f061deb4eb06e072c1fa5e4021edaa8e	contig-8568858:509:0_1_509_-	76.36	165	3.6e-68	ABC-type multidrug transport system, ATPase component	Rhodoferax ferrireducens T118	eggNOG	3.0
+f061deb4eb06e072c1fa5e4021edaa8e	contig-1402730:509:0_1_509_-	76.36	165	3.6e-68	ABC-type multidrug transport system, ATPase component	Rhodoferax ferrireducens T118	eggNOG	3.0
+f061deb4eb06e072c1fa5e4021edaa8e	contig-8568858:509:0_1_509_-	76.36	165	3.6e-68	ABC-type multidrug transport system, permease component	Rhodoferax ferrireducens T118	eggNOG	3.0
+f061deb4eb06e072c1fa5e4021edaa8e	contig-1402730:509:0_1_509_-	76.36	165	3.6e-68	ABC-type multidrug transport system, permease component	Rhodoferax ferrireducens T118	eggNOG	3.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	RefSeq	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	RefSeq	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	KEGG	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	KEGG	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	IMG	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	IMG	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	Amidohydrolase precursor	Robiginitalea biformata HTCC2501	SEED	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	Amidohydrolase precursor	Robiginitalea biformata HTCC2501	SEED	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata (strain ATCC BAA-864 / HTCC2501 / KCTC 12146)	TrEMBL	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata (strain ATCC BAA-864 / HTCC2501 / KCTC 12146)	TrEMBL	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	GenBank	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	Amidohydrolase family enzyme	Robiginitalea biformata HTCC2501	GenBank	2.0
+4e1311e86aa715833943d988c45b743c	contig-4875660:1002:0_1_879_-	68.57	35	1.7e-06	Amidohydrolase precursor	Robiginitalea biformata HTCC2501 Unclassified.	PATRIC	2.0
+4e1311e86aa715833943d988c45b743c	contig-8707247:1002:0_124_1001_+	68.57	35	1.7e-06	Amidohydrolase precursor	Robiginitalea biformata HTCC2501 Unclassified.	PATRIC	2.0
+f027bad937a1c7853339caef42b733dc	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	SEED	3.0
+f027bad937a1c7853339caef42b733dc	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	SEED	2.0
+f027bad937a1c7853339caef42b733dc	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	3.0
+f027bad937a1c7853339caef42b733dc	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366 Unclassified.	PATRIC	2.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	RefSeq	3.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	RefSeq	2.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	KEGG	3.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	KEGG	2.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	IMG	3.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein	Pedobacter heparinus DSM 2366	IMG	2.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	Putative uncharacterized protein	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	3.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	Putative uncharacterized protein	Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)	TrEMBL	2.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-3821544:1113:0_1_1112_-	75.0	36	6.8e-10	hypothetical protein Phep_0448	Pedobacter heparinus DSM 2366	GenBank	3.0
+2a90f021e48c402a5bc856885e9cbf7b	contig-4752589:680:0_1_680_-	75.0	36	6.8e-10	hypothetical protein Phep_0448	Pedobacter heparinus DSM 2366	GenBank	2.0
+d8fbe53802b3beee674821ffc880d300	contig-2780507:874:0_1_874_+	58.76	97	1.1e-20	Sugar kinases, ribokinase family	Streptomyces coelicolor A3(2	eggNOG	5.0
+d8fbe53802b3beee674821ffc880d300	contig-3446589:558:0_1_558_+	58.76	97	1.1e-20	Sugar kinases, ribokinase family	Streptomyces coelicolor A3(2	eggNOG	4.0
+d8fbe53802b3beee674821ffc880d300	contig-2780507:874:0_1_874_+	58.76	97	1.1e-20	2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	Streptomyces coelicolor A3(2)	SEED	5.0
+d8fbe53802b3beee674821ffc880d300	contig-3446589:558:0_1_558_+	58.76	97	1.1e-20	2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	Streptomyces coelicolor A3(2)	SEED	4.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-2780507:874:0_1_874_+	62.96	54	2e-11	putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus B4	RefSeq	5.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-3446589:558:0_1_558_+	62.96	54	2e-11	putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus B4	RefSeq	4.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-2780507:874:0_1_874_+	62.96	54	2e-11	2-keto-3-deoxygluconate kinase (EC:2.7.1.45)	Rhodococcus opacus B4	KEGG	5.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-3446589:558:0_1_558_+	62.96	54	2e-11	2-keto-3-deoxygluconate kinase (EC:2.7.1.45)	Rhodococcus opacus B4	KEGG	4.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-2780507:874:0_1_874_+	62.96	54	2e-11	putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus B4	IMG	5.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-3446589:558:0_1_558_+	62.96	54	2e-11	putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus B4	IMG	4.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-2780507:874:0_1_874_+	62.96	54	2e-11	Putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus (strain B4)	TrEMBL	5.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-3446589:558:0_1_558_+	62.96	54	2e-11	Putative 2-keto-3-deoxygluconate kinase	Rhodococcus opacus (strain B4)	TrEMBL	4.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-2780507:874:0_1_874_+	62.96	54	2e-11	2-dehydro-3-deoxygluconate kinase	Rhodococcus opacus B4 Unclassified.	PATRIC	5.0
+87b2f4f1cff578873d9bb2e4b087fbc9	contig-3446589:558:0_1_558_+	62.96	54	2e-11	2-dehydro-3-deoxygluconate kinase	Rhodococcus opacus B4 Unclassified.	PATRIC	4.0
+d066493db775b2ffc5a54012c6d39eaf	contig-2780507:874:0_1_874_+	60.26	78	6.3e-17	PfkB domain protein	Acidothermus cellulolyticus 11B	GenBank	5.0
+d066493db775b2ffc5a54012c6d39eaf	contig-3446589:558:0_1_558_+	60.26	78	6.3e-17	PfkB domain protein	Acidothermus cellulolyticus 11B	GenBank	4.0
+d578637f24eb270c6b775a7b25afc0ce	contig-3733792:882:0_1_882_+	82.91	117	8.5e-55	hypothetical protein	Pseudomonas syringae pv. syringae FF5	RefSeq	3.0
+d578637f24eb270c6b775a7b25afc0ce	contig-5618207:882:0_1_882_+	82.91	117	8.5e-55	hypothetical protein	Pseudomonas syringae pv. syringae FF5	RefSeq	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	KEGG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	KEGG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	Annotation not available	Pseudomonas putida F1	eggNOG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	Annotation not available	Pseudomonas putida F1	eggNOG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	IMG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	IMG	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	SEED	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1	SEED	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	Putative uncharacterized protein	Pseudomonas putida (strain F1 / ATCC 700007)	TrEMBL	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	Putative uncharacterized protein	Pseudomonas putida (strain F1 / ATCC 700007)	TrEMBL	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	hypothetical protein Pput_3882	Pseudomonas putida F1	GenBank	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	hypothetical protein Pput_3882	Pseudomonas putida F1	GenBank	3.0
+167e6a05855798043033352e0a8ae0f2	contig-3733792:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1 Unclassified.	PATRIC	3.0
+167e6a05855798043033352e0a8ae0f2	contig-5618207:882:0_1_882_+	66.42	137	7e-48	hypothetical protein	Pseudomonas putida F1 Unclassified.	PATRIC	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10242653:884:0_1_884_-	75.44	114	7.8e-45	put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	RefSeq	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-5593855:642:0_1_642_+	75.44	114	7.8e-45	put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	RefSeq	1.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10975690:707:0_1_707_-	75.44	114	7.8e-45	put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	RefSeq	2.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10242653:884:0_1_884_-	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	KEGG	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-5593855:642:0_1_642_+	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	KEGG	1.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10975690:707:0_1_707_-	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii DSM 12804	KEGG	2.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10242653:884:0_1_884_-	75.44	114	7.8e-45	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	Bordetella petrii	IMG	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-5593855:642:0_1_642_+	75.44	114	7.8e-45	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	Bordetella petrii	IMG	1.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10975690:707:0_1_707_-	75.44	114	7.8e-45	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	Bordetella petrii	IMG	2.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10242653:884:0_1_884_-	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448)	TrEMBL	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-5593855:642:0_1_642_+	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448)	TrEMBL	1.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10975690:707:0_1_707_-	75.44	114	7.8e-45	Put. ABC transport protein, inner membrane component	Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448)	TrEMBL	2.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10242653:884:0_1_884_-	75.44	114	7.8e-45	SN-glycerol-3-phosphate transport system permease protein UgpA (TC 3.A.1.1.3)	Bordetella petrii DSM 12804 Unclassified.	PATRIC	3.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-5593855:642:0_1_642_+	75.44	114	7.8e-45	SN-glycerol-3-phosphate transport system permease protein UgpA (TC 3.A.1.1.3)	Bordetella petrii DSM 12804 Unclassified.	PATRIC	1.0
+35f30c521a24c98f76fa8e7bb79d0d23	contig-10975690:707:0_1_707_-	75.44	114	7.8e-45	SN-glycerol-3-phosphate transport system permease protein UgpA (TC 3.A.1.1.3)	Bordetella petrii DSM 12804 Unclassified.	PATRIC	2.0
+5799baa50fe7598f96897df852c67203	contig-10242653:884:0_1_884_-	72.97	111	6.7e-42	binding-protein-dependent transport systems inner membrane component	Burkholderia graminis C4D1M	GenBank	3.0
+5799baa50fe7598f96897df852c67203	contig-5593855:642:0_1_642_+	72.97	111	6.7e-42	binding-protein-dependent transport systems inner membrane component	Burkholderia graminis C4D1M	GenBank	1.0
+5799baa50fe7598f96897df852c67203	contig-10975690:707:0_1_707_-	72.97	111	6.7e-42	binding-protein-dependent transport systems inner membrane component	Burkholderia graminis C4D1M	GenBank	2.0
+7e477f25574f19406d3fb48e95a9dd15	contig-10242653:884:0_1_884_-	73.87	111	6.7e-42	ABC-type sugar transport systems, permease components	Ralstonia solanacearum GMI1000	eggNOG	3.0
+7e477f25574f19406d3fb48e95a9dd15	contig-5593855:642:0_1_642_+	73.87	111	6.7e-42	ABC-type sugar transport systems, permease components	Ralstonia solanacearum GMI1000	eggNOG	1.0
+7e477f25574f19406d3fb48e95a9dd15	contig-10975690:707:0_1_707_-	73.87	111	6.7e-42	ABC-type sugar transport systems, permease components	Ralstonia solanacearum GMI1000	eggNOG	2.0
+7e477f25574f19406d3fb48e95a9dd15	contig-10242653:884:0_1_884_-	73.87	111	6.7e-42	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)	Ralstonia solanacearum GMI1000	SEED	3.0
+7e477f25574f19406d3fb48e95a9dd15	contig-5593855:642:0_1_642_+	73.87	111	6.7e-42	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)	Ralstonia solanacearum GMI1000	SEED	1.0
+7e477f25574f19406d3fb48e95a9dd15	contig-10975690:707:0_1_707_-	73.87	111	6.7e-42	Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)	Ralstonia solanacearum GMI1000	SEED	2.0
+2d40c26a0c9109342bd7ad7bf57de146	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	Adenylate cyclase (EC 4.6.1.1)	Solibacter usitatus Ellin6076	SEED	5.0
+2d40c26a0c9109342bd7ad7bf57de146	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	Adenylate cyclase (EC 4.6.1.1)	Solibacter usitatus Ellin6076	SEED	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	transcriptional regulator	Candidatus Solibacter usitatus Ellin6076	RefSeq	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	transcriptional regulator	Candidatus Solibacter usitatus Ellin6076	RefSeq	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	transcriptional regulator, putative ATPase, winged helix family	Solibacter usitatus Ellin6076	IMG	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	transcriptional regulator, putative ATPase, winged helix family	Solibacter usitatus Ellin6076	IMG	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	Transcriptional regulator, putative ATPase, winged helix family	Solibacter usitatus (strain Ellin6076)	TrEMBL	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	Transcriptional regulator, putative ATPase, winged helix family	Solibacter usitatus (strain Ellin6076)	TrEMBL	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	transcriptional regulator, putative ATPase, winged helix family	Candidatus Solibacter usitatus Ellin6076	GenBank	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	transcriptional regulator, putative ATPase, winged helix family	Candidatus Solibacter usitatus Ellin6076	GenBank	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	transcriptional regulator	Solibacter usitatus Ellin6076	KEGG	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	transcriptional regulator	Solibacter usitatus Ellin6076	KEGG	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	Predicted ATPase	Solibacter usitatus Ellin6076	eggNOG	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	Predicted ATPase	Solibacter usitatus Ellin6076	eggNOG	2.0
+1cfee2fdda3c77b7f53c33801a989467	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	DNA-binding winged-HTH domains	Solibacter usitatus Ellin6076	eggNOG	5.0
+1cfee2fdda3c77b7f53c33801a989467	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	DNA-binding winged-HTH domains	Solibacter usitatus Ellin6076	eggNOG	2.0
+c12044a7759e79da648f7436413c1555	contig-7464240:1295:0_192_1294_+	66.67	39	3.9e-06	Adenylate cyclase	Candidatus Solibacter usitatus Ellin6076 Unclassified.	PATRIC	5.0
+c12044a7759e79da648f7436413c1555	contig-1093648:701:0_1_701_-	66.67	39	3.9e-06	Adenylate cyclase	Candidatus Solibacter usitatus Ellin6076 Unclassified.	PATRIC	2.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-3360698:16059:0_2104_2989_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	RefSeq	1585.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-6527046:779:0_268_779_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	RefSeq	156.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-3360698:16059:0_2104_2989_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	IMG	1585.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-6527046:779:0_268_779_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	IMG	156.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-3360698:16059:0_2104_2989_+	73.33	285	1.6e-119	Transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	TrEMBL	1585.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-6527046:779:0_268_779_+	73.33	285	1.6e-119	Transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	TrEMBL	156.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-3360698:16059:0_2104_2989_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	GenBank	1585.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-6527046:779:0_268_779_+	73.33	285	1.6e-119	transcriptional regulator, LysR family	Burkholderia sp. CCGE1001	GenBank	156.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-3360698:16059:0_2104_2989_+	73.33	285	1.6e-119	LysR family transcriptional regulator YbhD	Burkholderia sp. CCGE1001 Unclassified.	PATRIC	1585.0
+c6426ac41121f3358a98b9dfbd5ef31e	contig-6527046:779:0_268_779_+	73.33	285	1.6e-119	LysR family transcriptional regulator YbhD	Burkholderia sp. CCGE1001 Unclassified.	PATRIC	156.0
+f846b13548617735bb8e93f2c04803dc	contig-3360698:16059:0_2104_2989_+	72.54	284	5.4e-118	LysR family transcriptional regulator	Burkholderia sp. CCGE1003	KEGG	1585.0
+f846b13548617735bb8e93f2c04803dc	contig-6527046:779:0_268_779_+	72.54	284	5.4e-118	LysR family transcriptional regulator	Burkholderia sp. CCGE1003	KEGG	156.0
+89bf71920573624115a8d0bf9b07c49c	contig-3360698:16059:0_2104_2989_+	72.28	285	2.4e-118	LysR family transcriptional regulator YbhD	Burkholderia ambifaria AMMD	SEED	1585.0
+89bf71920573624115a8d0bf9b07c49c	contig-6527046:779:0_268_779_+	72.28	285	2.4e-118	LysR family transcriptional regulator YbhD	Burkholderia ambifaria AMMD	SEED	156.0
+3fa178c9894795c207b9bdbfbde337dd	contig-3360698:16059:0_2104_2989_+	74.91	283	7.2e-122	Transcriptional regulator	Burkholderia vietnamiensis G4	eggNOG	1585.0
+3fa178c9894795c207b9bdbfbde337dd	contig-6527046:779:0_268_779_+	74.91	283	7.2e-122	Transcriptional regulator	Burkholderia vietnamiensis G4	eggNOG	156.0
+66b3ff998f594aec05fb6b5dbafa066f	contig-4873877:2251:0_1_884_-	63.41	41	1.3e-06	Putative acetyltransferase (GNAT) family protein	uncultured marine microorganism HF4000_ANIW137G21	TrEMBL	2.0
+66b3ff998f594aec05fb6b5dbafa066f	contig-9422880:1804:0_921_1803_+	63.41	41	1.3e-06	Putative acetyltransferase (GNAT) family protein	uncultured marine microorganism HF4000_ANIW137G21	TrEMBL	1.0
+66b3ff998f594aec05fb6b5dbafa066f	contig-4873877:2251:0_1_884_-	63.41	41	1.3e-06	putative acetyltransferase (GNAT) family protein	uncultured marine microorganism HF4000_ANIW137G21	GenBank	2.0
+66b3ff998f594aec05fb6b5dbafa066f	contig-9422880:1804:0_921_1803_+	63.41	41	1.3e-06	putative acetyltransferase (GNAT) family protein	uncultured marine microorganism HF4000_ANIW137G21	GenBank	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain-containing protein	Arthrobacter aurescens TC1	RefSeq	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain-containing protein	Arthrobacter aurescens TC1	RefSeq	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	sulfide dehydrogenase (flavocytochrome), flavoprotein subunit (EC 1.8.2.-)	Arthrobacter aurescens TC1	IMG	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	sulfide dehydrogenase (flavocytochrome), flavoprotein subunit (EC 1.8.2.-)	Arthrobacter aurescens TC1	IMG	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	Pyridine nucleotide-disulphide oxidoreductase domain protein	Arthrobacter aurescens (strain TC1)	TrEMBL	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	Pyridine nucleotide-disulphide oxidoreductase domain protein	Arthrobacter aurescens (strain TC1)	TrEMBL	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain protein	Arthrobacter aurescens TC1	GenBank	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain protein	Arthrobacter aurescens TC1	GenBank	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain-containing protein	Arthrobacter aurescens TC1	KEGG	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	pyridine nucleotide-disulphide oxidoreductase domain-containing protein	Arthrobacter aurescens TC1	KEGG	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	Uncharacterized NAD(FAD)-dependent dehydrogenases	Arthrobacter aurescens TC1	eggNOG	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	Uncharacterized NAD(FAD)-dependent dehydrogenases	Arthrobacter aurescens TC1	eggNOG	1.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-5688564:2019:0_913_2017_-	70.37	108	2.9e-40	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	Arthrobacter aurescens TC1 Unclassified.	PATRIC	4.0
+bef04e8a6fe1eedd2b177af6ae444856	contig-1034575:1217:0_915_1216_-	70.37	108	2.9e-40	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	Arthrobacter aurescens TC1 Unclassified.	PATRIC	1.0
+84c2f5473c34702b286989bdbd9cc6a3	contig-5688564:2019:0_913_2017_-	74.34	113	8.9e-44	Sulfide-quinone reductase	Clavibacter michiganensis subsp. michiganensis NCPPB 382	SEED	4.0
+84c2f5473c34702b286989bdbd9cc6a3	contig-1034575:1217:0_915_1216_-	74.34	113	8.9e-44	Sulfide-quinone reductase	Clavibacter michiganensis subsp. michiganensis NCPPB 382	SEED	1.0
+0dd0986d36d7141b7fcc44718f852df5	contig-8100522:880:0_1_880_+	54.55	88	1.1e-18	oxidoreductase, short-chain dehydrogenase/reductase family	Anaeromyxobacter sp. Fw109-5	SEED	4.0
+0dd0986d36d7141b7fcc44718f852df5	contig-1782379:823:0_1_823_+	54.55	88	1.1e-18	oxidoreductase, short-chain dehydrogenase/reductase family	Anaeromyxobacter sp. Fw109-5	SEED	3.0
+d1d6804f27abd22ffbd89fbf6c6a8a67	contig-8100522:880:0_1_880_+	62.5	72	1.9e-18	hypothetical protein	Bacillus sp. m3-13	RefSeq	4.0
+d1d6804f27abd22ffbd89fbf6c6a8a67	contig-1782379:823:0_1_823_+	62.5	72	1.9e-18	hypothetical protein	Bacillus sp. m3-13	RefSeq	3.0
+d1d6804f27abd22ffbd89fbf6c6a8a67	contig-8100522:880:0_1_880_+	62.5	72	1.9e-18	hypothetical protein	Bacillus sp. m3-13 Unclassified.	PATRIC	4.0
+d1d6804f27abd22ffbd89fbf6c6a8a67	contig-1782379:823:0_1_823_+	62.5	72	1.9e-18	hypothetical protein	Bacillus sp. m3-13 Unclassified.	PATRIC	3.0
+5fdf682d290fee734de7ffba855c3c3f	contig-8100522:880:0_1_880_+	53.57	56	3.4e-09	Male sterility C-terminal domain	Nocardioides sp. JS614	GenBank	4.0
+5fdf682d290fee734de7ffba855c3c3f	contig-1782379:823:0_1_823_+	53.57	56	3.4e-09	Male sterility C-terminal domain	Nocardioides sp. JS614	GenBank	3.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-8100522:880:0_1_880_+	74.19	31	1.1e-05	hypothetical protein	Oceanobacillus iheyensis HTE831	KEGG	4.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-1782379:823:0_1_823_+	74.19	31	1.1e-05	hypothetical protein	Oceanobacillus iheyensis HTE831	KEGG	3.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-8100522:880:0_1_880_+	74.19	31	1.1e-05	Putative dehydrogenase domain of multifunctional non-ribosomal peptide synthetases and related enzymes	Oceanobacillus iheyensis HTE831	eggNOG	4.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-1782379:823:0_1_823_+	74.19	31	1.1e-05	Putative dehydrogenase domain of multifunctional non-ribosomal peptide synthetases and related enzymes	Oceanobacillus iheyensis HTE831	eggNOG	3.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-8100522:880:0_1_880_+	74.19	31	1.1e-05	hypothetical protein	Oceanobacillus iheyensis HTE831	IMG	4.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-1782379:823:0_1_823_+	74.19	31	1.1e-05	hypothetical protein	Oceanobacillus iheyensis HTE831	IMG	3.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-8100522:880:0_1_880_+	74.19	31	1.1e-05	Putative uncharacterized protein OB1066	Oceanobacillus iheyensis	TrEMBL	4.0
+a996e4d17f2485de85e863a6dd1b7e82	contig-1782379:823:0_1_823_+	74.19	31	1.1e-05	Putative uncharacterized protein OB1066	Oceanobacillus iheyensis	TrEMBL	3.0
+4802d5192803e5303ed9ca0d555715b2	contig-6403576:886:0_1_886_-	76.6	141	3.8e-55	Serine protease	marine actinobacterium PHSC20C1	SEED	3.0
+4802d5192803e5303ed9ca0d555715b2	contig-9550120:656:0_1_656_+	76.6	141	3.8e-55	Serine protease	marine actinobacterium PHSC20C1	SEED	2.0
+4802d5192803e5303ed9ca0d555715b2	contig-6125649:643:0_1_643_-	76.6	141	3.8e-55	Serine protease	marine actinobacterium PHSC20C1	SEED	3.0
+32a053dd8e182861dedfc6d3e6791944	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	Serine protease	Arthrobacter chlorophenolicus A6 Unclassified.	PATRIC	3.0
+32a053dd8e182861dedfc6d3e6791944	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	Serine protease	Arthrobacter chlorophenolicus A6 Unclassified.	PATRIC	2.0
+32a053dd8e182861dedfc6d3e6791944	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	Serine protease	Arthrobacter chlorophenolicus A6 Unclassified.	PATRIC	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	RefSeq	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	RefSeq	2.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	RefSeq	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	KEGG	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	KEGG	2.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	peptidase S8/S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	KEGG	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	IMG	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	IMG	2.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	IMG	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	Peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus (strain A6 / ATCC 700700 / DSM 12829 / JCM 12360)	TrEMBL	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	Peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus (strain A6 / ATCC 700700 / DSM 12829 / JCM 12360)	TrEMBL	2.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	Peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus (strain A6 / ATCC 700700 / DSM 12829 / JCM 12360)	TrEMBL	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6403576:886:0_1_886_-	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	GenBank	3.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-9550120:656:0_1_656_+	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	GenBank	2.0
+b960bfd32c767f8cae927ca262fbc4a4	contig-6125649:643:0_1_643_-	65.96	94	3.1e-29	peptidase S8 and S53 subtilisin kexin sedolisin	Arthrobacter chlorophenolicus A6	GenBank	3.0
+d893a52d689c069cbc1a1527c746a7ef	contig-6403576:886:0_1_886_-	68.09	94	9.2e-31	Subtilisin-like serine proteases	Arthrobacter aurescens TC1	eggNOG	3.0
+d893a52d689c069cbc1a1527c746a7ef	contig-9550120:656:0_1_656_+	68.09	94	9.2e-31	Subtilisin-like serine proteases	Arthrobacter aurescens TC1	eggNOG	2.0
+d893a52d689c069cbc1a1527c746a7ef	contig-6125649:643:0_1_643_-	68.09	94	9.2e-31	Subtilisin-like serine proteases	Arthrobacter aurescens TC1	eggNOG	3.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-1955411:514:0_1_514_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase	Herbaspirillum seropedicae SmR1	RefSeq	1.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-10192636:513:0_1_513_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase	Herbaspirillum seropedicae SmR1	RefSeq	2.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-1955411:514:0_1_514_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase (EC:6.2.1.3)	Herbaspirillum seropedicae SmR1	KEGG	1.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-10192636:513:0_1_513_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase (EC:6.2.1.3)	Herbaspirillum seropedicae SmR1	KEGG	2.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-1955411:514:0_1_514_-	61.04	77	4.2e-18	Long chain acyl-CoA synthetase protein	Herbaspirillum seropedicae (strain SmR1)	TrEMBL	1.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-10192636:513:0_1_513_-	61.04	77	4.2e-18	Long chain acyl-CoA synthetase protein	Herbaspirillum seropedicae (strain SmR1)	TrEMBL	2.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-1955411:514:0_1_514_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase protein	Herbaspirillum seropedicae SmR1	GenBank	1.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-10192636:513:0_1_513_-	61.04	77	4.2e-18	long chain acyl-CoA synthetase protein	Herbaspirillum seropedicae SmR1	GenBank	2.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-1955411:514:0_1_514_-	61.04	77	4.2e-18	Feruloyl-CoA synthetase	Herbaspirillum seropedicae SmR1 Unclassified.	PATRIC	1.0
+1b24ca68a674b2bd788c76ba9d9e0038	contig-10192636:513:0_1_513_-	61.04	77	4.2e-18	Feruloyl-CoA synthetase	Herbaspirillum seropedicae SmR1 Unclassified.	PATRIC	2.0
+208eac72d7f5f163182e9ba0dae9c336	contig-1955411:514:0_1_514_-	64.56	79	1.1e-20	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	Rhodopseudomonas palustris HaA2	eggNOG	1.0
+208eac72d7f5f163182e9ba0dae9c336	contig-10192636:513:0_1_513_-	64.56	79	1.1e-20	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	Rhodopseudomonas palustris HaA2	eggNOG	2.0
+208eac72d7f5f163182e9ba0dae9c336	contig-1955411:514:0_1_514_-	64.56	79	1.1e-20	4-coumarate--CoA ligase	Rhodopseudomonas palustris HaA2	IMG	1.0
+208eac72d7f5f163182e9ba0dae9c336	contig-10192636:513:0_1_513_-	64.56	79	1.1e-20	4-coumarate--CoA ligase	Rhodopseudomonas palustris HaA2	IMG	2.0
+208eac72d7f5f163182e9ba0dae9c336	contig-1955411:514:0_1_514_-	64.56	79	1.1e-20	Feruloyl-CoA synthetase	Rhodopseudomonas palustris HaA2	SEED	1.0
+208eac72d7f5f163182e9ba0dae9c336	contig-10192636:513:0_1_513_-	64.56	79	1.1e-20	Feruloyl-CoA synthetase	Rhodopseudomonas palustris HaA2	SEED	2.0
+dd2f58a45bb4354bccb725b41a974530	contig-67136:1683:0_1169_1682_+	59.21	76	5.5e-18	ABC-type multidrug transport system, ATPase component	Thermofilum pendens Hrk 5	eggNOG	29.0
+dd2f58a45bb4354bccb725b41a974530	contig-2375708:1683:0_1_514_-	59.21	76	5.5e-18	ABC-type multidrug transport system, ATPase component	Thermofilum pendens Hrk 5	eggNOG	32.0
+dd2f58a45bb4354bccb725b41a974530	contig-67136:1683:0_1169_1682_+	59.21	76	5.5e-18	ABC transporter protein	Thermofilum pendens Hrk 5	eggNOG	29.0
+dd2f58a45bb4354bccb725b41a974530	contig-2375708:1683:0_1_514_-	59.21	76	5.5e-18	ABC transporter protein	Thermofilum pendens Hrk 5	eggNOG	32.0
+977f61a2c97b94579763d7d3e87d5151	contig-67136:1683:0_1169_1682_+	67.44	43	2.3e-10	ABC transporter-like protein	Geodermatophilus obscurus DSM 43160	RefSeq	29.0
+977f61a2c97b94579763d7d3e87d5151	contig-2375708:1683:0_1_514_-	67.44	43	2.3e-10	ABC transporter-like protein	Geodermatophilus obscurus DSM 43160	RefSeq	32.0
+977f61a2c97b94579763d7d3e87d5151	contig-67136:1683:0_1169_1682_+	67.44	43	2.3e-10	ABC transporter-like protein	Geodermatophilus obscurus DSM 43160	KEGG	29.0
+977f61a2c97b94579763d7d3e87d5151	contig-2375708:1683:0_1_514_-	67.44	43	2.3e-10	ABC transporter-like protein	Geodermatophilus obscurus DSM 43160	KEGG	32.0
+977f61a2c97b94579763d7d3e87d5151	contig-67136:1683:0_1169_1682_+	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus DSM 43160	IMG	29.0
+977f61a2c97b94579763d7d3e87d5151	contig-2375708:1683:0_1_514_-	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus DSM 43160	IMG	32.0
+977f61a2c97b94579763d7d3e87d5151	contig-67136:1683:0_1169_1682_+	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus (strain ATCC 25078 / DSM 43160 / JCM 3152 / G-20)	TrEMBL	29.0
+977f61a2c97b94579763d7d3e87d5151	contig-2375708:1683:0_1_514_-	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus (strain ATCC 25078 / DSM 43160 / JCM 3152 / G-20)	TrEMBL	32.0
+977f61a2c97b94579763d7d3e87d5151	contig-67136:1683:0_1169_1682_+	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus DSM 43160	GenBank	29.0
+977f61a2c97b94579763d7d3e87d5151	contig-2375708:1683:0_1_514_-	67.44	43	2.3e-10	ABC transporter related protein	Geodermatophilus obscurus DSM 43160	GenBank	32.0
+c8b7cdb41a959631b6830137473f48fd	contig-67136:1683:0_1169_1682_+	66.13	62	1.6e-13	Methionine ABC transporter ATP-binding protein	Microcoleus chthonoplastes PCC 7420 Unclassified.	PATRIC	29.0
+c8b7cdb41a959631b6830137473f48fd	contig-2375708:1683:0_1_514_-	66.13	62	1.6e-13	Methionine ABC transporter ATP-binding protein	Microcoleus chthonoplastes PCC 7420 Unclassified.	PATRIC	32.0
+c5a9cfd078fcd7f78af7438e7b6b063d	contig-67136:1683:0_1169_1682_+	54.79	73	1.6e-13	ABC transporter, ATP-binding protein	Methanosphaerula palustris E1-9c	SEED	29.0
+c5a9cfd078fcd7f78af7438e7b6b063d	contig-2375708:1683:0_1_514_-	54.79	73	1.6e-13	ABC transporter, ATP-binding protein	Methanosphaerula palustris E1-9c	SEED	32.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	hypothetical protein	Candidatus Solibacter usitatus Ellin6076	RefSeq	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	hypothetical protein	Candidatus Solibacter usitatus Ellin6076	RefSeq	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	protein of unknown function DUF214	Solibacter usitatus Ellin6076	IMG	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	protein of unknown function DUF214	Solibacter usitatus Ellin6076	IMG	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	pyoverdine efflux carrier and ATP binding protein	Solibacter usitatus Ellin6076	SEED	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	pyoverdine efflux carrier and ATP binding protein	Solibacter usitatus Ellin6076	SEED	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	Putative uncharacterized protein	Solibacter usitatus (strain Ellin6076)	TrEMBL	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	Putative uncharacterized protein	Solibacter usitatus (strain Ellin6076)	TrEMBL	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	protein of unknown function DUF214	Candidatus Solibacter usitatus Ellin6076	GenBank	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	protein of unknown function DUF214	Candidatus Solibacter usitatus Ellin6076	GenBank	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	hypothetical protein	Solibacter usitatus Ellin6076	KEGG	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	hypothetical protein	Solibacter usitatus Ellin6076	KEGG	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	ABC-type antimicrobial peptide transport system, permease component	Solibacter usitatus Ellin6076	eggNOG	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	ABC-type antimicrobial peptide transport system, permease component	Solibacter usitatus Ellin6076	eggNOG	4.0
+abb47060760470b8ba8467eb192940d6	contig-1071851:878:0_1_878_+	71.43	49	5.3e-12	pyoverdine efflux carrier and ATP binding protein	Candidatus Solibacter usitatus Ellin6076 Unclassified.	PATRIC	4.0
+abb47060760470b8ba8467eb192940d6	contig-9079835:756:0_1_756_-	71.43	49	5.3e-12	pyoverdine efflux carrier and ATP binding protein	Candidatus Solibacter usitatus Ellin6076 Unclassified.	PATRIC	4.0
+f874c94310eecc9e4c177e00605a9eb5	contig-70125:1095:0_1_1094_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a	RefSeq	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-2250143:1054:0_1_1053_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a	RefSeq	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-70125:1095:0_1_1094_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a  	IMG	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-2250143:1054:0_1_1053_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a  	IMG	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-70125:1095:0_1_1094_-	70.0	30	0.0033	Phage protein	Caudovirales Enterobacteria phage SSL-2009a	SEED	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-2250143:1054:0_1_1053_-	70.0	30	0.0033	Phage protein	Caudovirales Enterobacteria phage SSL-2009a	SEED	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-70125:1095:0_1_1094_-	70.0	30	0.0033	Putative uncharacterized protein	Enterobacteria phage SSL-2009a	TrEMBL	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-2250143:1054:0_1_1053_-	70.0	30	0.0033	Putative uncharacterized protein	Enterobacteria phage SSL-2009a	TrEMBL	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-70125:1095:0_1_1094_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a	GenBank	2.0
+f874c94310eecc9e4c177e00605a9eb5	contig-2250143:1054:0_1_1053_-	70.0	30	0.0033	hypothetical protein	Enterobacteria phage SSL-2009a	GenBank	2.0
+9ad777eaac0044f3f5d4d9af701d7982	contig-70125:1095:0_1_1094_-	57.45	47	4.6e-11	hypothetical protein	Burkholderia cenocepacia J2315 Unclassified.	PATRIC	2.0
+9ad777eaac0044f3f5d4d9af701d7982	contig-2250143:1054:0_1_1053_-	57.45	47	4.6e-11	hypothetical protein	Burkholderia cenocepacia J2315 Unclassified.	PATRIC	2.0
+7661a38b5256f582305c6e5249c6734b	contig-70125:1095:0_1_1094_-	85.0	20	0.0056	hypothetical protein	Chitinophaga pinensis DSM 2588	KEGG	2.0
+7661a38b5256f582305c6e5249c6734b	contig-2250143:1054:0_1_1053_-	85.0	20	0.0056	hypothetical protein	Chitinophaga pinensis DSM 2588	KEGG	2.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	RefSeq	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	RefSeq	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	RefSeq	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	IMG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	IMG	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	IMG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396	SEED	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396	SEED	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396	SEED	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis (strain KCTC 2396)	TrEMBL	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis (strain KCTC 2396)	TrEMBL	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis (strain KCTC 2396)	TrEMBL	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	GenBank	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	GenBank	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	GenBank	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	eggNOG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	eggNOG	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Membrane-fusion protein	Hahella chejuensis KCTC 2396	eggNOG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	KEGG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	KEGG	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	membrane-fusion protein	Hahella chejuensis KCTC 2396	KEGG	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-2663764:881:0_1_881_+	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396 Unclassified.	PATRIC	1.0
+59342705feec324c7a7b45bf4b6c37b8	contig-10803932:559:0_1_559_-	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396 Unclassified.	PATRIC	3.0
+59342705feec324c7a7b45bf4b6c37b8	contig-845586:518:0_1_518_-	63.24	68	4.8e-17	Probable Co/Zn/Cd efflux system membrane fusion protein	Hahella chejuensis KCTC 2396 Unclassified.	PATRIC	1.0
+f6af2118c69de32bc5ed42579646ce1e	contig-8216304:1114:0_1_1113_-	64.23	123	2.9e-40	mannose-6-phosphate isomerase-like protein	Chitinophaga pinensis DSM 2588	KEGG	2.0
+f6af2118c69de32bc5ed42579646ce1e	contig-192220:804:0_1_804_-	64.23	123	2.9e-40	mannose-6-phosphate isomerase-like protein	Chitinophaga pinensis DSM 2588	KEGG	3.0
+f6af2118c69de32bc5ed42579646ce1e	contig-5045543:1113:0_1_1112_-	64.23	123	2.9e-40	mannose-6-phosphate isomerase-like protein	Chitinophaga pinensis DSM 2588	KEGG	1.0
+f6af2118c69de32bc5ed42579646ce1e	contig-8216304:1114:0_1_1113_-	64.23	123	2.9e-40	ROK family member transcriptional repressor	Chitinophaga pinensis DSM 2588	SEED	2.0
+f6af2118c69de32bc5ed42579646ce1e	contig-192220:804:0_1_804_-	64.23	123	2.9e-40	ROK family member transcriptional repressor	Chitinophaga pinensis DSM 2588	SEED	3.0
+f6af2118c69de32bc5ed42579646ce1e	contig-5045543:1113:0_1_1112_-	64.23	123	2.9e-40	ROK family member transcriptional repressor	Chitinophaga pinensis DSM 2588	SEED	1.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-8216304:1114:0_1_1113_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	RefSeq	2.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-192220:804:0_1_804_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	RefSeq	3.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-5045543:1113:0_1_1112_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	RefSeq	1.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-8216304:1114:0_1_1113_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	IMG	2.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-192220:804:0_1_804_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	IMG	3.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-5045543:1113:0_1_1112_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	IMG	1.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-8216304:1114:0_1_1113_-	72.46	69	1e-23	Mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	TrEMBL	2.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-192220:804:0_1_804_-	72.46	69	1e-23	Mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	TrEMBL	3.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-5045543:1113:0_1_1112_-	72.46	69	1e-23	Mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	TrEMBL	1.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-8216304:1114:0_1_1113_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	GenBank	2.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-192220:804:0_1_804_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	GenBank	3.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-5045543:1113:0_1_1112_-	72.46	69	1e-23	mannose-6-phosphate isomerase family protein	Sphingobacterium spiritivorum ATCC 33300	GenBank	1.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-8216304:1114:0_1_1113_-	72.46	69	1e-23	mannose-6-phosphate isomerase, class I	Sphingobacterium spiritivorum ATCC 33300 Unclassified.	PATRIC	2.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-192220:804:0_1_804_-	72.46	69	1e-23	mannose-6-phosphate isomerase, class I	Sphingobacterium spiritivorum ATCC 33300 Unclassified.	PATRIC	3.0
+e9bb57800bb4ad4014d95d56da5bba03	contig-5045543:1113:0_1_1112_-	72.46	69	1e-23	mannose-6-phosphate isomerase, class I	Sphingobacterium spiritivorum ATCC 33300 Unclassified.	PATRIC	1.0
+bb49369168043f301b1866e9a12fefe7	contig-8216304:1114:0_1_1113_-	64.71	119	2.3e-42	Transcriptional regulator/sugar kinase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	2.0
+bb49369168043f301b1866e9a12fefe7	contig-192220:804:0_1_804_-	64.71	119	2.3e-42	Transcriptional regulator/sugar kinase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	3.0
+bb49369168043f301b1866e9a12fefe7	contig-5045543:1113:0_1_1112_-	64.71	119	2.3e-42	Transcriptional regulator/sugar kinase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	1.0
+bb49369168043f301b1866e9a12fefe7	contig-8216304:1114:0_1_1113_-	64.71	119	2.3e-42	Phosphomannose isomerase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	2.0
+bb49369168043f301b1866e9a12fefe7	contig-192220:804:0_1_804_-	64.71	119	2.3e-42	Phosphomannose isomerase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	3.0
+bb49369168043f301b1866e9a12fefe7	contig-5045543:1113:0_1_1112_-	64.71	119	2.3e-42	Phosphomannose isomerase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	1.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-2656213:1116:0_1_1115_+	63.79	58	8.1e-15	hypothetical protein	Bacteroides uniformis ATCC 8492	RefSeq	24.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-9126101:519:0_1_519_+	63.79	58	8.1e-15	hypothetical protein	Bacteroides uniformis ATCC 8492	RefSeq	12.5
+338ba29c9aa8ddd59a124e8e0049bd57	contig-2656213:1116:0_1_1115_+	63.79	58	8.1e-15	RagB, SusD and hypothetical proteins.	Bacteroides uniformis ATCC 8492	IMG	24.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-9126101:519:0_1_519_+	63.79	58	8.1e-15	RagB, SusD and hypothetical proteins.	Bacteroides uniformis ATCC 8492	IMG	12.5
+338ba29c9aa8ddd59a124e8e0049bd57	contig-2656213:1116:0_1_1115_+	63.79	58	8.1e-15	Putative uncharacterized protein	Bacteroides uniformis ATCC 8492	TrEMBL	24.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-9126101:519:0_1_519_+	63.79	58	8.1e-15	Putative uncharacterized protein	Bacteroides uniformis ATCC 8492	TrEMBL	12.5
+338ba29c9aa8ddd59a124e8e0049bd57	contig-2656213:1116:0_1_1115_+	63.79	58	8.1e-15	hypothetical protein BACUNI_00062	Bacteroides uniformis ATCC 8492	GenBank	24.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-9126101:519:0_1_519_+	63.79	58	8.1e-15	hypothetical protein BACUNI_00062	Bacteroides uniformis ATCC 8492	GenBank	12.5
+338ba29c9aa8ddd59a124e8e0049bd57	contig-2656213:1116:0_1_1115_+	63.79	58	8.1e-15	putative outer membrane protein, probably involved in nutrient binding	Bacteroides uniformis ATCC 8492 Unclassified.	PATRIC	24.0
+338ba29c9aa8ddd59a124e8e0049bd57	contig-9126101:519:0_1_519_+	63.79	58	8.1e-15	putative outer membrane protein, probably involved in nutrient binding	Bacteroides uniformis ATCC 8492 Unclassified.	PATRIC	12.5
+351464e8e8160218fceb20ba9d140828	contig-2656213:1116:0_1_1115_+	64.71	51	4.6e-11	tetratricopeptide repeat-containing SusD/RagB family protein	Gramella forsetii KT0803	KEGG	24.0
+351464e8e8160218fceb20ba9d140828	contig-9126101:519:0_1_519_+	64.71	51	4.6e-11	tetratricopeptide repeat-containing SusD/RagB family protein	Gramella forsetii KT0803	KEGG	12.5
+351464e8e8160218fceb20ba9d140828	contig-2656213:1116:0_1_1115_+	64.71	51	4.6e-11	Annotation not available	Gramella forsetii KT0803	eggNOG	24.0
+351464e8e8160218fceb20ba9d140828	contig-9126101:519:0_1_519_+	64.71	51	4.6e-11	Annotation not available	Gramella forsetii KT0803	eggNOG	12.5
+351464e8e8160218fceb20ba9d140828	contig-2656213:1116:0_1_1115_+	64.71	51	4.6e-11	putative outer membrane protein, probably involved in nutrient binding	Gramella forsetii KT0803	SEED	24.0
+351464e8e8160218fceb20ba9d140828	contig-9126101:519:0_1_519_+	64.71	51	4.6e-11	putative outer membrane protein, probably involved in nutrient binding	Gramella forsetii KT0803	SEED	12.5
+5e5598868fff33b2edd523602f627d53	contig-2943409:879:0_1_879_+	60.16	123	5.7e-39	hypothetical protein	Bacteroides eggerthii DSM 20697	RefSeq	5.0
+5e5598868fff33b2edd523602f627d53	contig-9317674:835:0_1_835_-	60.16	123	5.7e-39	hypothetical protein	Bacteroides eggerthii DSM 20697	RefSeq	3.0
+5e5598868fff33b2edd523602f627d53	contig-2943409:879:0_1_879_+	60.16	123	5.7e-39	Beta-galactosidase/beta-glucuronidase	Bacteroides eggerthii DSM 20697	IMG	5.0
+5e5598868fff33b2edd523602f627d53	contig-9317674:835:0_1_835_-	60.16	123	5.7e-39	Beta-galactosidase/beta-glucuronidase	Bacteroides eggerthii DSM 20697	IMG	3.0
+5e5598868fff33b2edd523602f627d53	contig-2943409:879:0_1_879_+	60.16	123	5.7e-39	Putative uncharacterized protein	Bacteroides eggerthii DSM 20697	TrEMBL	5.0
+5e5598868fff33b2edd523602f627d53	contig-9317674:835:0_1_835_-	60.16	123	5.7e-39	Putative uncharacterized protein	Bacteroides eggerthii DSM 20697	TrEMBL	3.0
+5e5598868fff33b2edd523602f627d53	contig-2943409:879:0_1_879_+	60.16	123	5.7e-39	hypothetical protein BACEGG_02274	Bacteroides eggerthii DSM 20697	GenBank	5.0
+5e5598868fff33b2edd523602f627d53	contig-9317674:835:0_1_835_-	60.16	123	5.7e-39	hypothetical protein BACEGG_02274	Bacteroides eggerthii DSM 20697	GenBank	3.0
+5e5598868fff33b2edd523602f627d53	contig-2943409:879:0_1_879_+	60.16	123	5.7e-39	hypothetical protein	Bacteroides eggerthii DSM 20697 Unclassified.	PATRIC	5.0
+5e5598868fff33b2edd523602f627d53	contig-9317674:835:0_1_835_-	60.16	123	5.7e-39	hypothetical protein	Bacteroides eggerthii DSM 20697 Unclassified.	PATRIC	3.0
+a7439eb53587cfea05e13582e91a8ff9	contig-2943409:879:0_1_879_+	61.29	93	6.8e-27	beta-galactosidase	Bacteroides thetaiotaomicron VPI-5482	KEGG	5.0
+a7439eb53587cfea05e13582e91a8ff9	contig-9317674:835:0_1_835_-	61.29	93	6.8e-27	beta-galactosidase	Bacteroides thetaiotaomicron VPI-5482	KEGG	3.0
+a7439eb53587cfea05e13582e91a8ff9	contig-2943409:879:0_1_879_+	61.29	93	6.8e-27	Beta-galactosidase/beta-glucuronidase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	5.0
+a7439eb53587cfea05e13582e91a8ff9	contig-9317674:835:0_1_835_-	61.29	93	6.8e-27	Beta-galactosidase/beta-glucuronidase	Bacteroides thetaiotaomicron VPI-5482	eggNOG	3.0
+a7439eb53587cfea05e13582e91a8ff9	contig-2943409:879:0_1_879_+	61.29	93	6.8e-27	beta-galactosidase	Bacteroides thetaiotaomicron VPI-5482	SEED	5.0
+a7439eb53587cfea05e13582e91a8ff9	contig-9317674:835:0_1_835_-	61.29	93	6.8e-27	beta-galactosidase	Bacteroides thetaiotaomicron VPI-5482	SEED	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	RefSeq	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	RefSeq	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	RefSeq	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	KEGG	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	KEGG	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	KEGG	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	IMG	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	IMG	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	IMG	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134	SEED	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134	SEED	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134	SEED	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC-like dehydratase	Cupriavidus pinatubonensis (strain JMP134 / LMG 1197) (Alcaligenes eutrophus) (Ralstonia eutropha)	TrEMBL	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC-like dehydratase	Cupriavidus pinatubonensis (strain JMP134 / LMG 1197) (Alcaligenes eutrophus) (Ralstonia eutropha)	TrEMBL	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC-like dehydratase	Cupriavidus pinatubonensis (strain JMP134 / LMG 1197) (Alcaligenes eutrophus) (Ralstonia eutropha)	TrEMBL	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	GenBank	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	GenBank	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC-like dehydratase	Ralstonia eutropha JMP134	GenBank	4.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-1843233:1109:0_1_1108_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134 Unclassified.	PATRIC	2.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_448_870_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134 Unclassified.	PATRIC	3.0
+f1937f086b01375aa92d1cda4da1dfe7	contig-9030090:1105:0_1_435_+	69.14	81	7.7e-26	MaoC family protein	Ralstonia eutropha JMP134 Unclassified.	PATRIC	4.0
+567186782da92f475d1e40bf2f0b1448	contig-1843233:1109:0_1_1108_+	73.02	126	2.1e-47	Acyl dehydratase	Ralstonia eutropha H16	eggNOG	2.0
+567186782da92f475d1e40bf2f0b1448	contig-9030090:1105:0_448_870_+	73.02	126	2.1e-47	Acyl dehydratase	Ralstonia eutropha H16	eggNOG	3.0
+567186782da92f475d1e40bf2f0b1448	contig-9030090:1105:0_1_435_+	73.02	126	2.1e-47	Acyl dehydratase	Ralstonia eutropha H16	eggNOG	4.0
+8fd3c712c61628b4ec58c76f7bd91ff4	contig-1054594:878:0_1_878_-	68.92	74	1e-23	[NiFe] hydrogenase metallocenter assembly protein HypF	Geobacter metallireducens GS-15 Unclassified.	PATRIC	2.0
+8fd3c712c61628b4ec58c76f7bd91ff4	contig-2236811:753:0_1_753_+	68.92	74	1e-23	[NiFe] hydrogenase metallocenter assembly protein HypF	Geobacter metallireducens GS-15 Unclassified.	PATRIC	2.0
+8fd3c712c61628b4ec58c76f7bd91ff4	contig-242065:748:0_1_748_+	68.92	74	1e-23	[NiFe] hydrogenase metallocenter assembly protein HypF	Geobacter metallireducens GS-15 Unclassified.	PATRIC	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	RefSeq	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	RefSeq	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	RefSeq	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	IMG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	IMG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	IMG	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	[NiFe] hydrogenase metallocenter assembly protein HypF	Anaeromyxobacter dehalogenans 2CP-C	SEED	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	[NiFe] hydrogenase metallocenter assembly protein HypF	Anaeromyxobacter dehalogenans 2CP-C	SEED	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	[NiFe] hydrogenase metallocenter assembly protein HypF	Anaeromyxobacter dehalogenans 2CP-C	SEED	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans (strain 2CP-C)	TrEMBL	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans (strain 2CP-C)	TrEMBL	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans (strain 2CP-C)	TrEMBL	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	GenBank	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	GenBank	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	GenBank	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	Hydrogenase maturation factor	Anaeromyxobacter dehalogenans 2CP-C	eggNOG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	Hydrogenase maturation factor	Anaeromyxobacter dehalogenans 2CP-C	eggNOG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	Hydrogenase maturation factor	Anaeromyxobacter dehalogenans 2CP-C	eggNOG	3.0
+e329ee0e9468eb914c270ddbbb70c639	contig-1054594:878:0_1_878_-	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	KEGG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-2236811:753:0_1_753_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	KEGG	2.0
+e329ee0e9468eb914c270ddbbb70c639	contig-242065:748:0_1_748_+	63.75	80	4.4e-22	(NiFe) hydrogenase maturation protein HypF	Anaeromyxobacter dehalogenans 2CP-C	KEGG	3.0
+cfe664a2b6c261d339a773d8d4e50b81	contig-1138035:602:0_91_602_-	78.79	66	7.6e-24	putative choline dehydrogenase	Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11	SEED	1.0
+cfe664a2b6c261d339a773d8d4e50b81	contig-9483691:768:0_1_512_+	78.79	66	7.6e-24	putative choline dehydrogenase	Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11	SEED	1.0
+cfe664a2b6c261d339a773d8d4e50b81	contig-7852881:768:0_257_768_-	78.79	66	7.6e-24	putative choline dehydrogenase	Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11	SEED	2.0
+cfe664a2b6c261d339a773d8d4e50b81	contig-5939614:768:0_257_768_-	78.79	66	7.6e-24	putative choline dehydrogenase	Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11	SEED	2.0
+cfe664a2b6c261d339a773d8d4e50b81	contig-5656354:768:0_257_768_-	78.79	66	7.6e-24	putative choline dehydrogenase	Rhizobium leguminosarum bv. viciae 3841 plasmid pRL11	SEED	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-1138035:602:0_91_602_-	64.94	77	5.7e-22	glucose-methanol-choline oxidoreductase	Terriglobus saanensis SP1PR4	GenBank	1.0
+2178e71a5cd063ac678cf6797e85d85f	contig-9483691:768:0_1_512_+	64.94	77	5.7e-22	glucose-methanol-choline oxidoreductase	Terriglobus saanensis SP1PR4	GenBank	1.0
+2178e71a5cd063ac678cf6797e85d85f	contig-7852881:768:0_257_768_-	64.94	77	5.7e-22	glucose-methanol-choline oxidoreductase	Terriglobus saanensis SP1PR4	GenBank	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-5939614:768:0_257_768_-	64.94	77	5.7e-22	glucose-methanol-choline oxidoreductase	Terriglobus saanensis SP1PR4	GenBank	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-5656354:768:0_257_768_-	64.94	77	5.7e-22	glucose-methanol-choline oxidoreductase	Terriglobus saanensis SP1PR4	GenBank	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-1138035:602:0_91_602_-	64.94	77	5.7e-22	Choline dehydrogenase	Acidobacterium sp. SP1PR4 Unclassified.	PATRIC	1.0
+2178e71a5cd063ac678cf6797e85d85f	contig-9483691:768:0_1_512_+	64.94	77	5.7e-22	Choline dehydrogenase	Acidobacterium sp. SP1PR4 Unclassified.	PATRIC	1.0
+2178e71a5cd063ac678cf6797e85d85f	contig-7852881:768:0_257_768_-	64.94	77	5.7e-22	Choline dehydrogenase	Acidobacterium sp. SP1PR4 Unclassified.	PATRIC	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-5939614:768:0_257_768_-	64.94	77	5.7e-22	Choline dehydrogenase	Acidobacterium sp. SP1PR4 Unclassified.	PATRIC	2.0
+2178e71a5cd063ac678cf6797e85d85f	contig-5656354:768:0_257_768_-	64.94	77	5.7e-22	Choline dehydrogenase	Acidobacterium sp. SP1PR4 Unclassified.	PATRIC	2.0
+7aeff25954387941507dc4976b3ccd96	contig-1138035:602:0_91_602_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	RefSeq	1.0
+7aeff25954387941507dc4976b3ccd96	contig-9483691:768:0_1_512_+	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	RefSeq	1.0
+7aeff25954387941507dc4976b3ccd96	contig-7852881:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	RefSeq	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5939614:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	RefSeq	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5656354:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	RefSeq	2.0
+7aeff25954387941507dc4976b3ccd96	contig-1138035:602:0_91_602_-	63.27	49	3e-10	Pc22g07790	Penicillium chrysogenum Wisconsin 54-1255	KEGG	1.0
+7aeff25954387941507dc4976b3ccd96	contig-9483691:768:0_1_512_+	63.27	49	3e-10	Pc22g07790	Penicillium chrysogenum Wisconsin 54-1255	KEGG	1.0
+7aeff25954387941507dc4976b3ccd96	contig-7852881:768:0_257_768_-	63.27	49	3e-10	Pc22g07790	Penicillium chrysogenum Wisconsin 54-1255	KEGG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5939614:768:0_257_768_-	63.27	49	3e-10	Pc22g07790	Penicillium chrysogenum Wisconsin 54-1255	KEGG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5656354:768:0_257_768_-	63.27	49	3e-10	Pc22g07790	Penicillium chrysogenum Wisconsin 54-1255	KEGG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-1138035:602:0_91_602_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	IMG	1.0
+7aeff25954387941507dc4976b3ccd96	contig-9483691:768:0_1_512_+	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	IMG	1.0
+7aeff25954387941507dc4976b3ccd96	contig-7852881:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	IMG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5939614:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	IMG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5656354:768:0_257_768_-	63.27	49	3e-10	hypothetical protein	Penicillium chrysogenum Wisconsin 54-1255	IMG	2.0
+7aeff25954387941507dc4976b3ccd96	contig-1138035:602:0_91_602_-	63.27	49	3e-10	Pc22g07790 protein	Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) (Penicillium notatum)	TrEMBL	1.0
+7aeff25954387941507dc4976b3ccd96	contig-9483691:768:0_1_512_+	63.27	49	3e-10	Pc22g07790 protein	Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) (Penicillium notatum)	TrEMBL	1.0
+7aeff25954387941507dc4976b3ccd96	contig-7852881:768:0_257_768_-	63.27	49	3e-10	Pc22g07790 protein	Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) (Penicillium notatum)	TrEMBL	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5939614:768:0_257_768_-	63.27	49	3e-10	Pc22g07790 protein	Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) (Penicillium notatum)	TrEMBL	2.0
+7aeff25954387941507dc4976b3ccd96	contig-5656354:768:0_257_768_-	63.27	49	3e-10	Pc22g07790 protein	Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) (Penicillium notatum)	TrEMBL	2.0
+73f1611137ea27b3249b9b8029b03463	contig-1781987:807:0_1_513_-	84.21	95	2.6e-41	Putative regulator of ribonuclease activity	Rhodoferax ferrireducens (strain DSM 15236 / ATCC BAA-621 / T118)	SwissProt	3.0
+73f1611137ea27b3249b9b8029b03463	contig-118818:865:0_61_573_-	84.21	95	2.6e-41	Putative regulator of ribonuclease activity	Rhodoferax ferrireducens (strain DSM 15236 / ATCC BAA-621 / T118)	SwissProt	3.0
+73f1611137ea27b3249b9b8029b03463	contig-5251678:744:0_1_273_+	84.21	95	2.6e-41	Putative regulator of ribonuclease activity	Rhodoferax ferrireducens (strain DSM 15236 / ATCC BAA-621 / T118)	SwissProt	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	RefSeq	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	RefSeq	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	RefSeq	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	KEGG	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	KEGG	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	KEGG	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	IMG	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	IMG	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	IMG	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	Regulator of ribonuclease activity A	Comamonas testosteroni (strain CNB-2)	TrEMBL	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	Regulator of ribonuclease activity A	Comamonas testosteroni (strain CNB-2)	TrEMBL	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	Regulator of ribonuclease activity A	Comamonas testosteroni (strain CNB-2)	TrEMBL	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	GenBank	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	GenBank	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	regulator of ribonuclease activity A	Comamonas testosteroni CNB-2	GenBank	2.0
+c9f418594587e07ec5873e74ecfab849	contig-1781987:807:0_1_513_-	63.29	158	1.1e-54	Ribonuclease E inhibitor RraA	Comamonas testosteroni CNB-2 Unclassified.	PATRIC	3.0
+c9f418594587e07ec5873e74ecfab849	contig-118818:865:0_61_573_-	63.29	158	1.1e-54	Ribonuclease E inhibitor RraA	Comamonas testosteroni CNB-2 Unclassified.	PATRIC	3.0
+c9f418594587e07ec5873e74ecfab849	contig-5251678:744:0_1_273_+	63.29	158	1.1e-54	Ribonuclease E inhibitor RraA	Comamonas testosteroni CNB-2 Unclassified.	PATRIC	2.0
+7b853eab45eed099a17c829273fd0779	contig-1781987:807:0_1_513_-	76.32	152	2.1e-64	Demethylmenaquinone methyltransferase	Acidovorax sp. JS42	eggNOG	3.0
+7b853eab45eed099a17c829273fd0779	contig-118818:865:0_61_573_-	76.32	152	2.1e-64	Demethylmenaquinone methyltransferase	Acidovorax sp. JS42	eggNOG	3.0
+7b853eab45eed099a17c829273fd0779	contig-5251678:744:0_1_273_+	76.32	152	2.1e-64	Demethylmenaquinone methyltransferase	Acidovorax sp. JS42	eggNOG	2.0
+7b853eab45eed099a17c829273fd0779	contig-1781987:807:0_1_513_-	76.32	152	2.1e-64	Ribonuclease E inhibitor RraA	Acidovorax sp. JS42	SEED	3.0
+7b853eab45eed099a17c829273fd0779	contig-118818:865:0_61_573_-	76.32	152	2.1e-64	Ribonuclease E inhibitor RraA	Acidovorax sp. JS42	SEED	3.0
+7b853eab45eed099a17c829273fd0779	contig-5251678:744:0_1_273_+	76.32	152	2.1e-64	Ribonuclease E inhibitor RraA	Acidovorax sp. JS42	SEED	2.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	RefSeq	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	RefSeq	1.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	KEGG	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	KEGG	1.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	IMG	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	IMG	1.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	Two-component response regulator protein	Rhizobium etli (strain CIAT 652)	TrEMBL	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	Two-component response regulator protein	Rhizobium etli (strain CIAT 652)	TrEMBL	1.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	GenBank	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	two-component response regulator protein	Rhizobium etli CIAT 652	GenBank	1.0
+982abe9e01376fb03c80c71ce6e3993a	contig-2807382:1111:0_1_1110_-	59.21	76	1.7e-19	Two-component system response regulator QseB	Rhizobium etli CIAT 652 Unclassified.	PATRIC	3.0
+982abe9e01376fb03c80c71ce6e3993a	contig-3565461:613:0_1_613_+	59.21	76	1.7e-19	Two-component system response regulator QseB	Rhizobium etli CIAT 652 Unclassified.	PATRIC	1.0
+cfcf7fdd8209f5ce9359a84ff64af2a7	contig-2807382:1111:0_1_1110_-	56.79	81	1.7e-19	Two-component response regulator	Azorhizobium caulinodans ORS 571	SEED	3.0
+cfcf7fdd8209f5ce9359a84ff64af2a7	contig-3565461:613:0_1_613_+	56.79	81	1.7e-19	Two-component response regulator	Azorhizobium caulinodans ORS 571	SEED	1.0
+9ed5182946aa099738f8140eafdd5de7	contig-2807382:1111:0_1_1110_-	57.69	78	9.7e-20	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Sinorhizobium meliloti 1021	eggNOG	3.0
+9ed5182946aa099738f8140eafdd5de7	contig-3565461:613:0_1_613_+	57.69	78	9.7e-20	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Sinorhizobium meliloti 1021	eggNOG	1.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	RefSeq	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	RefSeq	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	RefSeq	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	RefSeq	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	TrEMBL	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	TrEMBL	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	TrEMBL	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	TrEMBL	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	GenBank	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica BA175	GenBank	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-560930:945:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	GenBank	3.0
+93588956971b7a759c07b6d6e82c4ae6	contig-8552505:940:0_1_881_-	99.4	166	3.3e-92	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella baltica OS183	GenBank	3.0
+8af3ee34b2d8cd258fa8502ee5e74512	contig-560930:945:0_1_881_-	80.92	131	1.5e-58	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella sp. MR-7 Unclassified.	PATRIC	3.0
+8af3ee34b2d8cd258fa8502ee5e74512	contig-8552505:940:0_1_881_-	80.92	131	1.5e-58	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella sp. MR-7 Unclassified.	PATRIC	3.0
+5f6f1b1632abf6c822e63d0308f8d5df	contig-560930:945:0_1_881_-	67.3	159	6.7e-59	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella violacea DSS12	KEGG	3.0
+5f6f1b1632abf6c822e63d0308f8d5df	contig-8552505:940:0_1_881_-	67.3	159	6.7e-59	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	Shewanella violacea DSS12	KEGG	3.0
+5f6f1b1632abf6c822e63d0308f8d5df	contig-560930:945:0_1_881_-	67.3	159	6.7e-59	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella violacea DSS12	IMG	3.0
+5f6f1b1632abf6c822e63d0308f8d5df	contig-8552505:940:0_1_881_-	67.3	159	6.7e-59	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	Shewanella violacea DSS12	IMG	3.0
+1038828d307b2a47465f4fae1629d1e6	contig-560930:945:0_1_881_-	68.12	160	1.3e-57	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	Shewanella halifaxensis HAW-EB4	SEED	3.0
+1038828d307b2a47465f4fae1629d1e6	contig-8552505:940:0_1_881_-	68.12	160	1.3e-57	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	Shewanella halifaxensis HAW-EB4	SEED	3.0
+b2d3e01b37c3f59a353a1d9df6b0de43	contig-560930:945:0_1_881_-	79.52	166	2.2e-74	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase	Shewanella oneidensis MR-1	eggNOG	3.0
+b2d3e01b37c3f59a353a1d9df6b0de43	contig-8552505:940:0_1_881_-	79.52	166	2.2e-74	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase	Shewanella oneidensis MR-1	eggNOG	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-560930:945:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS155 / ATCC BAA-1091)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-8552505:940:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS155 / ATCC BAA-1091)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-560930:945:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS185)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-8552505:940:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS185)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-560930:945:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS195)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-8552505:940:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS195)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-560930:945:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS223)	SwissProt	3.0
+46d9a29a8d0bd183e1af0d23260d6d8a	contig-8552505:940:0_1_881_-	100.0	119	1.2e-62	Undecaprenyl-diphosphatase	Shewanella baltica (strain OS223)	SwissProt	3.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	RefSeq	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	RefSeq	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	RefSeq	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	Frankia sp. CcI3	IMG	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	Frankia sp. CcI3	IMG	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	Frankia sp. CcI3	IMG	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	Frankia sp. Ccl3	SEED	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	Frankia sp. Ccl3	SEED	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	Frankia sp. Ccl3	SEED	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	GenBank	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	GenBank	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. CcI3	GenBank	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. (strain CcI3)	SwissProt	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. (strain CcI3)	SwissProt	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase	Frankia sp. (strain CcI3)	SwissProt	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	Deoxyxylulose-5-phosphate synthase	Frankia sp. CcI3	eggNOG	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	Deoxyxylulose-5-phosphate synthase	Frankia sp. CcI3	eggNOG	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	Deoxyxylulose-5-phosphate synthase	Frankia sp. CcI3	eggNOG	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC:2.2.1.7)	Frankia sp. CcI3	KEGG	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC:2.2.1.7)	Frankia sp. CcI3	KEGG	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose-5-phosphate synthase (EC:2.2.1.7)	Frankia sp. CcI3	KEGG	4.0
+cd95ea2460ba9c562a97a027307754f2	contig-866196:877:0_1_877_+	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase	Frankia sp. CcI3 Unclassified.	PATRIC	5.0
+cd95ea2460ba9c562a97a027307754f2	contig-9207890:643:0_1_643_+	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase	Frankia sp. CcI3 Unclassified.	PATRIC	1.0
+cd95ea2460ba9c562a97a027307754f2	contig-679072:607:0_1_607_-	65.75	181	1.6e-68	1-deoxy-D-xylulose 5-phosphate synthase	Frankia sp. CcI3 Unclassified.	PATRIC	4.0
+95436a652d904f3a848684a2b14ab467	contig-866196:877:0_1_877_+	70.52	173	1.4e-67	1-deoxy-D-xylulose-5-phosphate synthase	marine actinobacterium PHSC20C1	TrEMBL	5.0
+95436a652d904f3a848684a2b14ab467	contig-9207890:643:0_1_643_+	70.52	173	1.4e-67	1-deoxy-D-xylulose-5-phosphate synthase	marine actinobacterium PHSC20C1	TrEMBL	1.0
+95436a652d904f3a848684a2b14ab467	contig-679072:607:0_1_607_-	70.52	173	1.4e-67	1-deoxy-D-xylulose-5-phosphate synthase	marine actinobacterium PHSC20C1	TrEMBL	4.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas axonopodis pv. citri str. 306	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas axonopodis pv. citri str. 306	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas campestris pv. vesicatoria str. 85-10	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas campestris pv. vesicatoria str. 85-10	RefSeq	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas axonopodis pv. citri 306	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas axonopodis pv. citri 306	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas campestris pv. vesicatoria 85-10	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas campestris pv. vesicatoria 85-10	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	IMG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator of N-acetylglucosamine utilization, LacI family	Xanthomonas axonopodis pv. citri str. 306	SEED	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator of N-acetylglucosamine utilization, LacI family	Xanthomonas axonopodis pv. citri str. 306	SEED	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator of N-acetylglucosamine utilization, LacI family	Xanthomonas campestris pv. vesicatoria str. 85-10	SEED	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator of N-acetylglucosamine utilization, LacI family	Xanthomonas campestris pv. vesicatoria str. 85-10	SEED	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator, LacI family	Xanthomonas campestris pv. vesicatoria (strain 85-10)	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator, LacI family	Xanthomonas campestris pv. vesicatoria (strain 85-10)	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas axonopodis pv. citri (Citrus canker)	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas axonopodis pv. citri (Citrus canker)	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	TrEMBL	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas axonopodis pv. citri str. 306	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas axonopodis pv. citri str. 306	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	transcriptional regulator lacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122	GenBank	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulators	Xanthomonas axonopodis pv. citri str. 306	eggNOG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulators	Xanthomonas axonopodis pv. citri str. 306	eggNOG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Transcriptional regulators	Xanthomonas campestris pv. vesicatoria str. 85-10	eggNOG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Transcriptional regulators	Xanthomonas campestris pv. vesicatoria str. 85-10	eggNOG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas axonopodis pv. citri 306	KEGG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas axonopodis pv. citri 306	KEGG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas campestris pv. vesicatoria 85-10	KEGG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	LacI family transcription regulator	Xanthomonas campestris pv. vesicatoria 85-10	KEGG	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas axonopodis pv. citri str. 306 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas axonopodis pv. citri str. 306 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas campestris pv. vesicatoria str. 85-10 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas campestris pv. vesicatoria str. 85-10 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 10535 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-1830676:878:0_1_878_+	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122 Unclassified.	PATRIC	3.0
+976c60f8c4ec315d01d3bcc8834bebf1	contig-919735:606:0_1_606_-	81.46	151	9.4e-69	Predicted transcriptional regulator of N-Acetylglucosamine utilization, LacI family	Xanthomonas fuscans subsp. aurantifolii str. ICPB 11122 Unclassified.	PATRIC	3.0
+526864a6876801ab202ca49f2793279c	contig-10116951:1089:0_1_1088_-	58.97	78	1.1e-18	hypothetical protein	Planctomyces maris DSM 8797	RefSeq	3.0
+526864a6876801ab202ca49f2793279c	contig-1938516:639:0_1_639_-	58.97	78	1.1e-18	hypothetical protein	Planctomyces maris DSM 8797	RefSeq	1.0
+526864a6876801ab202ca49f2793279c	contig-10116951:1089:0_1_1088_-	58.97	78	1.1e-18	hypothetical protein	Planctomyces maris DSM 8797	IMG	3.0
+526864a6876801ab202ca49f2793279c	contig-1938516:639:0_1_639_-	58.97	78	1.1e-18	hypothetical protein	Planctomyces maris DSM 8797	IMG	1.0
